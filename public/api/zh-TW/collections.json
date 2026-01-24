@@ -16625,7 +16625,7 @@
  },
  {
   "id": "collection-set-timed-drops-achroma",
-  "name": "The Achroma Collection",
+  "name": "無色收藏",
   "crates": [],
   "contains": [
    {
@@ -17177,7 +17177,7 @@
  },
  {
   "id": "collection-set-timed-drops-exuberant",
-  "name": "The Harlequin Collection",
+  "name": "丑角收藏",
   "crates": [],
   "contains": [
    {
@@ -18286,7 +18286,7 @@
    },
    {
     "id": "skin-9197715f9f3f",
-    "name": "AK-47 | Aphrodite",
+    "name": "AK-47 | 阿芙羅黛蒂",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "隱蔽",

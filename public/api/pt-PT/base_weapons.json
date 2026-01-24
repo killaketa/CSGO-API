@@ -628,7 +628,7 @@
  },
  {
   "id": "base_weapon-weapon_knife_canis",
-  "name": "Faca de Sobrevivência",
+  "name": "Faca Survival",
   "description": "Esta faca multifuncional tem uma lâmina serrada pensada para lacerar materiais espessos como osso ou fibra, e uma ponta afiada em forma de gancho. O cabo de material compósito está aparafusado à lâmina com porcas hexagonais.",
   "def_index": 518,
   "category": {
