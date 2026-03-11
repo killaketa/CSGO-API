@@ -1768,6 +1768,494 @@
   }
  },
  {
+  "id": "skin-b8f492474850",
+  "name": "★ Γάντια οδηγού | Brocade Crane",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_brocade_crane_red",
+   "name": "Brocade Crane"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1399",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-d9b9add3d4ae",
+  "name": "★ Γάντια οδηγού | Brocade Flowers",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_brocade_flower_red",
+   "name": "Brocade Flowers"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1400",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-f9ff211df27d",
+  "name": "★ Γάντια οδηγού | Dragon Fists",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_dragon_scale_red",
+   "name": "Dragon Fists"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1401",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-2d7a4c354277",
+  "name": "★ Γάντια οδηγού | Garden",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_embroidered_flowers_teal",
+   "name": "Garden"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1402",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-25977544c37d",
+  "name": "★ Γάντια οδηγού | Hand Sweaters",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_knit_argyle_green",
+   "name": "Hand Sweaters"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1439",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-c79f644ef9e1",
+  "name": "★ Γάντια οδηγού | Plum Quill",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_ostrich_purple",
+   "name": "Plum Quill"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1412",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-f31ff8147493",
+  "name": "★ Γάντια οδηγού | Seigaiha",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_scallop_metallic_blue",
+   "name": "Seigaiha"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1404",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-b1dcd2af898f",
+  "name": "★ Γάντια οδηγού | Wave Chaser",
+  "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Γάντια οδηγού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_driver_silk_dragon_white",
+   "name": "Wave Chaser"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1398",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
   "id": "skin-e8384ee7aa31",
   "name": "★ Γάντια οδηγού | Lunar Weave",
   "description": "Αυτά τα γάντια οδήγησης παρέχουν προστασία από τον καιρό ενώ εξακολουθούν να δίνουν πολεμική αίσθηση. Έχει πλεχθεί μεσονύχτιο μπλε καστόρι με μαύρο τζετ δέρμα για να δώσει σε αυτά τα γάντια διαχρονικό στυλ.\\n\\n<i>Κρατάει το αίμα μακριά από τα χέρια σας... μεταφορικά μιλώντας</i>",
@@ -2652,6 +3140,433 @@
   }
  },
  {
+  "id": "skin-7b77498783da",
+  "name": "★ Γάντια ειδικού | Lime Polycam",
+  "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Γάντια ειδικού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_specialist_abstract_green",
+   "name": "Lime Polycam"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1413",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_abstract_green_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-1f8f2cadf55b",
+  "name": "★ Γάντια ειδικού | Cloud Chaser",
+  "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Γάντια ειδικού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_specialist_dragon_blue",
+   "name": "Cloud Chaser"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1440",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_dragon_blue_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-6d087aad2621",
+  "name": "★ Γάντια ειδικού | Blackbook",
+  "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Γάντια ειδικού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_specialist_graffiti_black",
+   "name": "Blackbook"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1414",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_graffiti_black_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-cc0d5dff95fc",
+  "name": "★ Γάντια ειδικού | Chocolate Chesterfield",
+  "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Γάντια ειδικού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_specialist_quilted_black",
+   "name": "Chocolate Chesterfield"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1415",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-da1393aefb9c",
+  "name": "★ Γάντια ειδικού | Pillow Punchers",
+  "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Γάντια ειδικού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_specialist_quilted_white",
+   "name": "Pillow Punchers"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1438",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-aba169232063",
+  "name": "★ Γάντια ειδικού | Sunburst",
+  "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Γάντια ειδικού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_specialist_sunburst_red",
+   "name": "Sunburst"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1416",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-6977cd7028dd",
+  "name": "★ Γάντια ειδικού | Big Swell",
+  "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Γάντια ειδικού"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_specialist_wave_blue",
+   "name": "Big Swell"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1437",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
   "id": "skin-fabc9079a914",
   "name": "★ Γάντια ειδικού | Forest DDPAT",
   "description": "Ανθεκτικά, στυλάτα και αναπνέουν. Αυτά τα γάντια αντέχουν (και μοιράζουν) πολύ πόνο. Το δέρμα που είναι ραμμένο στο χέρι έχει αντιστοιχιστεί με ένα τραχύ DDPAT εμπριμέ ύφασμα.\\n\\n<i>Σε μερικούς ανθρώπους δεν τους αρέσει να λερώνουν τα χέρια τους</i>",
@@ -3533,6 +4448,433 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJp-hnWyyhnRg_jDGMnYftb3qWagQlX8EjF7YIuhK9m9XiNO2x7gOPjY5HzHj7iiwcv3xi4-pQAPc7uvqAbB4ER4o",
   "original": {
    "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-0f6327fef452",
+  "name": "★ Σπορ γάντια | Violet Beadwork",
+  "description": "Τα συνθετικά υφάσματα παρέχουν σε αυτά τα αθλητικά γάντια αντοχή και στυλ.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Σπορ γάντια"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_sport_beadwork_diamonds_purple",
+   "name": "Violet Beadwork"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1405",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_beadwork_diamonds_purple_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-c747da872a60",
+  "name": "★ Σπορ γάντια | Frosty",
+  "description": "Τα συνθετικά υφάσματα παρέχουν σε αυτά τα αθλητικά γάντια αντοχή και στυλ.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Σπορ γάντια"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_sport_camo_winter",
+   "name": "Frosty"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1406",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_camo_winter_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-4a3cb425ea4e",
+  "name": "★ Σπορ γάντια | Blaze",
+  "description": "Τα συνθετικά υφάσματα παρέχουν σε αυτά τα αθλητικά γάντια αντοχή και στυλ. Έχει αερογραφηθεί με διαφανείς βαφές που ξεθωριάζουν μαζί σε βάση από χρώμιο.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Σπορ γάντια"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_sport_flames_orange",
+   "name": "Blaze"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1407",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_flames_orange_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-1cd6adc6787e",
+  "name": "★ Σπορ γάντια | Creme Pinstripe",
+  "description": "Τα συνθετικά υφάσματα παρέχουν σε αυτά τα αθλητικά γάντια αντοχή και στυλ.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Σπορ γάντια"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_sport_pinstripe_black",
+   "name": "Creme Pinstripe"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1408",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-01ecc031f210",
+  "name": "★ Σπορ γάντια | Red Racer",
+  "description": "Τα συνθετικά υφάσματα παρέχουν σε αυτά τα αθλητικά γάντια αντοχή και στυλ.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Σπορ γάντια"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_sport_racer_red",
+   "name": "Red Racer"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1409",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_racer_red_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-635fbb080d7c",
+  "name": "★ Σπορ γάντια | Ultra Violent",
+  "description": "Τα συνθετικά υφάσματα παρέχουν σε αυτά τα αθλητικά γάντια αντοχή και στυλ.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Σπορ γάντια"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_sport_tech_gradient_bright",
+   "name": "Ultra Violent"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1410",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-9ff0ea2301d4",
+  "name": "★ Σπορ γάντια | Occult",
+  "description": "Τα συνθετικά υφάσματα παρέχουν σε αυτά τα αθλητικά γάντια αντοχή και στυλ.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Σπορ γάντια"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Γάντια"
+  },
+  "pattern": {
+   "id": "glove_sport_velvet_red",
+   "name": "Occult"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1417",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_velvet_red_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
   }
  },
  {
@@ -5301,6 +6643,79 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOlo_k7yNk6P6hfqF-H_KfAWiUyeFjvuVWRzC3hxwYoDOEkYrqKiLJAVRiW9EzKrtT5Uj8jNOyZb_i5QHcg40Unyz-ji5LvX1v6-kEV_Ek8vCFjguUYOU_tJVWd6y5DUPZHBGjgbE",
   "original": {
    "name": "studded_hydra_gloves"
+  }
+ },
+ {
+  "id": "skin-f64cdaac0b90",
+  "name": "AK-47 | Crane Flight",
+  "description": "Ισχυρό και αξιόπιστο, το AK-47 είναι ένα από τα πιο δημοφιλή τουφέκια στον κόσμο. Είναι το πιο θανάσιμο σε σύντομες, συγκρατημένες βολές. A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Τουφέκια"
+  },
+  "pattern": {
+   "id": "ak47_crane_flight",
+   "name": "Crane Flight"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1425",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Τρομοκράτες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_crane_flight_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
   }
  },
  {
@@ -13736,6 +15151,79 @@
   }
  },
  {
+  "id": "skin-66197377b028",
+  "name": "AWP | Queen's Gambit",
+  "description": "Υψηλού κινδύνου αλλά υψηλής ανταπόδωσης, το περιβόητο AWP είναι αναγνωρίσιμο από το χαρακτηριστικό του ήχο και την τακτική του «μία βολή, ένας θάνατος». It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Τουφέκια"
+  },
+  "pattern": {
+   "id": "awp_queens_gambit",
+   "name": "Queen's Gambit"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Covert",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1422",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_queens_gambit_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-b986a2456e28",
   "name": "AWP | Chrome Cannon",
   "description": "Υψηλού κινδύνου αλλά υψηλής ανταπόδωσης, το περιβόητο AWP είναι αναγνωρίσιμο από το χαρακτηριστικό του ήχο και την τακτική του «μία βολή, ένας θάνατος». Αυτό το AWP έχει βαφεί ειδικά με επίστρωση καθρέπτη, ενώ διαθέτει φινίρισμα με πολύχρωμους τονισμούς και διόπτρα από ανθρακόνημα.\\n\\n<i>«Από πού ήρθε αυτό; Γιατί ρωτάς;» – Μπουθ, έμπορος όπλων</i>",
@@ -19993,6 +21481,79 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1a_s29fKFoLM-RHGaGztF6ueZhW2fnxU904mnQy9atcXPDbgAmXsNyQe5Ysxi6moHuN-_m4g3eid9Czn2rkGoXuZcB6ljd",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-fb5805d13a5e",
+  "name": "PP-Bizon | RMX",
+  "description": "Το υποπολυβόλο (SMG) Bizon προκαλεί μικρή ζημιά, αλλά προσφέρει ένα μοναδικά σχεδιασμένο κυλινδρικό γεμιστήρα μεγάλης χωρητικότητας που γεμίζει γρήγορα. It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Υποπολυβόλα"
+  },
+  "pattern": {
+   "id": "bizon_rmx",
+   "name": "RMX"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1418",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_rmx_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -27305,6 +28866,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_OSAmuZxvx3tudWQyC0nQlp52rQmNv_IC7DaFR0ApB4QbMKs0W8k9zuPr6xtAGMjoITmymohyMa6jErvbhrxmEjWA",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
+  "id": "skin-2bcac1c42296",
+  "name": "Desert Eagle | Firebreathing",
+  "description": "Ακριβό αλλά δυνατό, το Desert Eagle είναι ένα εμβληματικό πιστόλι δύσκολο να το ελέγξεις αλλά εξαιρετικά εύστοχο σε μεγάλες αποστάσεις. It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Πιστόλια"
+  },
+  "pattern": {
+   "id": "deagle_firebreathing",
+   "name": "Firebreathing"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1430",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_firebreathing_light_png.png",
   "original": {
    "name": "weapon_deagle"
   }
@@ -36319,6 +37953,79 @@
   }
  },
  {
+  "id": "skin-19e064301c88",
+  "name": "Five-SeveN | Dark Polymer",
+  "description": "Εξαιρετικά ακριβές και διατρητικό, το ακριβό Five-Seven γεμίζει αργά αλλά αντισταθμίζει με έναν γενναιόδωρο γεμιστήρα με 20 σφαίρες και επιεική ανάκρουση. This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Πιστόλια"
+  },
+  "pattern": {
+   "id": "fiveseven_polymer_dark",
+   "name": "Dark Polymer"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1429",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Αντιτρομοκρατική"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_polymer_dark_light_png.png",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
   "id": "skin-df168db99441",
   "name": "Five-SeveN | Boost Protocol",
   "description": "Εξαιρετικά ακριβές και διατρητικό, το ακριβό Five-Seven γεμίζει αργά αλλά αντισταθμίζει με έναν γενναιόδωρο γεμιστήρα με 20 σφαίρες και επιεική ανάκρουση. Έχει βαφεί ειδικά χρησιμοποιώντας χρώματα υψηλής αντίθεσης. Το εικονίδιο ρομπότ κάτω από το πίσω στόχαστρο.\\n\\n<i>Διακριτικό: MECHA 0272</i>",
@@ -41435,6 +43142,79 @@
   }
  },
  {
+  "id": "skin-8571b4f29f98",
+  "name": "Galil AR | Galigator",
+  "description": "Μια λιγότερο ακριβή εναλλακτική σε τουφέκια αποκλειστικά για τρομοκράτες, το Galil AR είναι ένα εύχρηστο όπλο για μάχες μετρίων έως μεγάλων αποστάσεων. An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
+  "weapon": {
+   "id": "weapon_galilar",
+   "weapon_id": 13,
+   "name": "Galil AR"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Τουφέκια"
+  },
+  "pattern": {
+   "id": "galil_galigator",
+   "name": "Galigator"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1434",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Τρομοκράτες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_galil_galigator_light_png.png",
+  "original": {
+   "name": "weapon_galilar"
+  }
+ },
+ {
   "id": "skin-3d7cafe33cee",
   "name": "Galil AR | Stone Cold",
   "description": "Μια λιγότερο ακριβή εναλλακτική σε τουφέκια αποκλειστικά για τρομοκράτες, το Galil AR είναι ένα εύχρηστο όπλο για μάχες μετρίων έως μεγάλων αποστάσεων. Έχει τονιστεί με μεταλλική μπλε μπογιά. Το σώμα και ο γεμιστήρας φέρουν το σήμα του σχεδιαστή.\\n\\n<i>Eventually you need to step outside of your mentor's shadow</i>",
@@ -46072,6 +47852,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tuKP-eHmKC_uJ_t-l9ASvik00m5TmEzd-geSiQPARxX5IiTLIMtBW4l9zmNuPr4VbbjItHxC_gznQeqLQCTjk",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-ec359b168d17",
+  "name": "Glock-18 | Fully Tuned",
+  "description": "Το Glock 18 είναι ένα χρήσιμο πιστόλι τριών ριπών για τον πρώτο γύρο που λειτουργεί καλύτερα απέναντι σε αντιπάλους χωρίς αλεξίσφαιρο. It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Πιστόλια"
+  },
+  "pattern": {
+   "id": "glock_jdpeek",
+   "name": "Fully Tuned"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Covert",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1421",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Τρομοκράτες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_jdpeek_light_png.png",
   "original": {
    "name": "weapon_glock"
   }
@@ -88381,6 +90234,79 @@
   }
  },
  {
+  "id": "skin-526e890d5739",
+  "name": "M249 | Bock Blocks",
+  "description": "Ένα δυνατό LMG ανοικτής περιοχής, το M249 είναι η τέλεια επιλογή για παίκτες που διατίθενται να ανταλλάξουν μια χαμηλή ταχυβολία για αυξημένη ευστοχία και μεγάλη χωρητικότητα πυρομαχικών. It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "weapon": {
+   "id": "weapon_m249",
+   "weapon_id": 14,
+   "name": "M249"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Οπλοπολυβόλα"
+  },
+  "pattern": {
+   "id": "m249_blocks_purple",
+   "name": "Bock Blocks"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1435",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_m249_blocks_purple_light_png.png",
+  "original": {
+   "name": "weapon_m249"
+  }
+ },
+ {
   "id": "skin-c7c133807ad6",
   "name": "M249 | Hypnosis",
   "description": "Ένα δυνατό LMG ανοικτής περιοχής, το M249 είναι η τέλεια επιλογή για παίκτες που διατίθενται να ανταλλάξουν μια χαμηλή ταχυβολία για αυξημένη ευστοχία και μεγάλη χωρητικότητα πυρομαχικών. Έχει βαφεί ειδικά με ένα στιλάτο μαύρο και μπλε υπνωτικό σχέδιο.\\n\\n<i>«Επικεντρώσου στον ήχο της φωνής μου»</i>",
@@ -92339,6 +94265,79 @@
   }
  },
  {
+  "id": "skin-ca4c3950bda2",
+  "name": "M4A4 | Zubastick",
+  "description": "Πιο ακριβές αλλά λιγότερο επιζήμιο από το αντίστοιχο AK-47, το M4A4 είναι η επιλογή της αντιτρομοκρατικής σε πλήρως αυτόματα τυφέκια εφόδου. Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Τουφέκια"
+  },
+  "pattern": {
+   "id": "m4a4_zubastick_bw",
+   "name": "Zubastick"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1432",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Αντιτρομοκρατική"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_zubastick_bw_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-81eee26a1c31",
   "name": "M4A1-S | Fade",
   "description": "Με μικρότερο γεμιστήρα από τον μη σιγασμένο ομόλογό του, το σιγασμένο M4A1 παρέχει αθόρυβες βολές με λιγότερη ανάκρουση και καλύτερη ακρίβεια. Έχει βαφεί με αερογραφία διαφανών βαφών που ξεθωριάζουν μαζί πάνω από ένα βασικό στρώμα χρωμίου. \\n\\n<i>Αυτό δεν είναι απλά ένα όπλο, είναι ένα κομμάτι μετατροπής - Imogen, εκπαιδευόμενος έμπορος όπλων</i>",
@@ -95360,6 +97359,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ux6seJicCW8gQg0jDGMnYftb3-eOgEpDcFyQuMMtRG8kIbhMuK051ba2IMQyH6r3yof5ilv4bwLWfU7uvqA7qRNHGA",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-62ecfa87b86d",
+  "name": "M4A1-S | Electrum",
+  "description": "Με μικρότερο γεμιστήρα από τον μη σιγασμένο ομόλογό του, το σιγασμένο M4A1 παρέχει αθόρυβες βολές με λιγότερη ανάκρουση και καλύτερη ακρίβεια. It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Τουφέκια"
+  },
+  "pattern": {
+   "id": "m4a1s_electrum",
+   "name": "Electrum"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1433",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Αντιτρομοκρατική"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_electrum_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -107510,6 +109582,79 @@
   }
  },
  {
+  "id": "skin-55d44f236355",
+  "name": "MP7 | Amberline",
+  "description": "Πολλαπλών χρήσεων αλλά ακριβό, το Γερμανικής κατασκευής υποπολυβόλο (SMG) MP7 είναι η τέλεια επιλογή για να προκαλέσετε σημαντικές ζημιές σε μάχες κοντινών αποστάσεων. It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Υποπολυβόλα"
+  },
+  "pattern": {
+   "id": "mp7_amberline",
+   "name": "Amberline"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1436",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_amberline_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Just Smile",
   "description": "Πολλαπλών χρήσεων αλλά ακριβό, το Γερμανικής κατασκευής υποπολυβόλο (SMG) MP7 είναι η τέλεια επιλογή για να προκαλέσετε σημαντικές ζημιές σε μάχες κοντινών αποστάσεων. Η μπλε και μωβ επίστρωση της βάσης έχει φινίρισμα με μια χαμογελαστή φατσούλα και τις λέξεις «Just Smile» σε κίτρινο.\\n\\n<i>«Πες τυρίιιιι»</i>",
@@ -111136,6 +113281,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-36e373c7de1c",
+  "name": "MP9 | Urban Sovereign",
+  "description": "Κατασκευασμένο στην Ελβετία, το πρωτοποριακό υποπολυβόλο (SMG) MP9 είναι ένα εργονομικό όπλο από πολυμερές που προτιμάται από εταιρείες ιδιωτικής ασφάλειας. It has been custom painted with an urban material design and finished with gold graffiti.\\n\\n<i>Kings don't hide behind walls, they paint them</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Υποπολυβόλα"
+  },
+  "pattern": {
+   "id": "mp9_urban_sovereign",
+   "name": "Urban Sovereign"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1423",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Αντιτρομοκρατική"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_urban_sovereign_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -120969,6 +123187,79 @@
   }
  },
  {
+  "id": "skin-2f5828f37817",
+  "name": "P250 | Kintsugi",
+  "description": "Ένα πυροβόλο όπλο με μικρή ανάκρουση και μεγάλη ταχυβολία, το P250 είναι μια σχετικά φθηνή επιλογή ενάντια σε θωρακισμένους εχθρούς. A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Πιστόλια"
+  },
+  "pattern": {
+   "id": "p250_kintsugi",
+   "name": "Kintsugi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1420",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_kintsugi_light_png.png",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
   "id": "skin-9ff7bce8cb4e",
   "name": "P250 | Copper Oxide",
   "description": "Ένα πυροβόλο όπλο με μικρή ανάκρουση και μεγάλη ταχυβολία, το P250 είναι μια σχετικά φθηνή επιλογή ενάντια σε θωρακισμένους εχθρούς. Έχει βαφεί με συμπαγές μπλε και ροζ χρυσό.\\n\\n<i>Δοκιμάζω κάτι λίγο διαφορετικό εδώ. Πώς σου φαίνεται; – Yukako, Οπλοποιός</i>",
@@ -124860,6 +127151,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0PChZ7d5H_KfG2KvzedxuPUnTHrlzU9xt2qHzd-rJ3yQb1cmXJNzF-Vc5BS6wdLjMe60tAyP3dhNzTK-0H3NvEQllg",
+  "original": {
+   "name": "weapon_p90"
+  }
+ },
+ {
+  "id": "skin-612576d81a84",
+  "name": "P90 | Deathgaze",
+  "description": "Εύκολα αναγνωρίσιμο από το μοναδικό σχεδιασμό του τύπου bullpup, το P90 είναι ένα τέλειο όπλο για να πυροβολείτε εν κινήσει χάρις στον υψηλής χωρητικότητας γεμιστήρα και στην μικρή ανάκρουσή του. It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "weapon": {
+   "id": "weapon_p90",
+   "weapon_id": 19,
+   "name": "P90"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Υποπολυβόλα"
+  },
+  "pattern": {
+   "id": "p90_deathgaze",
+   "name": "Deathgaze"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1419",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_p90_deathgaze_light_png.png",
   "original": {
    "name": "weapon_p90"
   }
@@ -130277,6 +132641,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcaFSIvGHB2yvxPdzo95lRi67gVNxsGjUzIz9ci7DblclD5d1Ee5esEO4mt3vN7_g5VeIj4xAzi2r23kb8G81tFlYllZq",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
+  "id": "skin-39ceb900b437",
+  "name": "Sawed-Off | Fusion",
+  "description": "Το κλασικό Sawed-Off προκαλεί τεράστια κοντινή ζημιά, αλλά με τη μικρή ευστοχία του, τη μεγάλη διασπορά και τη χαμηλή ταχυβολία του, καλύτερα να σκοτώσετε αυτό που χτυπάτε. It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Οπλοπολυβόλα"
+  },
+  "pattern": {
+   "id": "sawedoff_fusion",
+   "name": "Fusion"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1427",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Τρομοκράτες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_fusion_light_png.png",
   "original": {
    "name": "weapon_sawedoff"
   }
@@ -147032,6 +149469,79 @@
   }
  },
  {
+  "id": "skin-40743fbc40a8",
+  "name": "UMP-45 | Fragment",
+  "description": "Το παρεξηγημένο μεσαίο παιδί της οικογένειας των υποπολυβόλων (SMG), ο μικρός γεμιστήρας του UMP45 είναι το μοναδικό ελάττωμα σε ένα κατά τα άλλα ευέλικτο αυτόματο για μάχες εκ του συστάδην. It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "weapon": {
+   "id": "weapon_ump45",
+   "weapon_id": 24,
+   "name": "UMP-45"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Υποπολυβόλα"
+  },
+  "pattern": {
+   "id": "ump_fragment",
+   "name": "Fragment"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1426",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Και οι δύο ομάδες"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_ump_fragment_light_png.png",
+  "original": {
+   "name": "weapon_ump45"
+  }
+ },
+ {
   "id": "skin-d5765bdffe44",
   "name": "UMP-45 | Late Night Transit",
   "description": "Το παρεξηγημένο μεσαίο παιδί της οικογένειας των υποπολυβόλων (SMG), ο μικρός γεμιστήρας του UMP45 είναι το μοναδικό ελάττωμα σε ένα κατά τα άλλα ευέλικτο αυτόματο για μάχες εκ του συστάδην. Έχει βαφεί ειδικά με φανταστικούς χάρτες δρομολογίων με βάση τους χάρτες του Counter-Strike.\\n\\n<i>«Φτάνουμε τώρα στον τέταρτο σταθμό της πράσινης γραμμής, στη Dust II»</i>",
@@ -150429,6 +152939,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViUzulxqd5lRi67gVMl62nUyd2scnOVPAcgA5J2TOFY5xLrlN22YbzgsQaI2IlHyiWojnwa8G81tErOD-_J",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
+  "id": "skin-12f8829b002d",
+  "name": "USP-S | Silent Shot",
+  "description": "Ένα από τα αγαπημένα των οπαδών του Counter-Strike: Source. Αυτό το πιστόλι USP έχει αποσπώμενο σιγαστήρα για μικρότερη ανάκρουση και ελαχιστοποίηση θορύβου. It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Πιστόλια"
+  },
+  "pattern": {
+   "id": "usps_silent_boy",
+   "name": "Silent Shot"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1431",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Εργοστασιακό"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Με ελάχιστες φθορές"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Δοκιμασμένο στη μάχη"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Πολυκαιρισμένο"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Ξεσκισμένο από μάχη"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Αντιτρομοκρατική"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_silent_boy_light_png.png",
   "original": {
    "name": "weapon_usp_silencer"
   }
