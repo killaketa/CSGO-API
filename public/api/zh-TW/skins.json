@@ -1769,8 +1769,8 @@
  },
  {
   "id": "skin-b8f492474850",
-  "name": "★ 駕駛手套 | Brocade Crane",
-  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。",
+  "name": "★ 駕駛手套 | 錦緞鶴",
+  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1782,7 +1782,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_crane_red",
-   "name": "Brocade Crane"
+   "name": "錦緞鶴"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1830,8 +1830,8 @@
  },
  {
   "id": "skin-d9b9add3d4ae",
-  "name": "★ 駕駛手套 | Brocade Flowers",
-  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。",
+  "name": "★ 駕駛手套 | 錦緞花",
+  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1843,7 +1843,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_flower_red",
-   "name": "Brocade Flowers"
+   "name": "錦緞花"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1891,8 +1891,8 @@
  },
  {
   "id": "skin-f9ff211df27d",
-  "name": "★ 駕駛手套 | Dragon Fists",
-  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。",
+  "name": "★ 駕駛手套 | 龍拳",
+  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1904,7 +1904,7 @@
   },
   "pattern": {
    "id": "glove_driver_dragon_scale_red",
-   "name": "Dragon Fists"
+   "name": "龍拳"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1952,8 +1952,8 @@
  },
  {
   "id": "skin-2d7a4c354277",
-  "name": "★ 駕駛手套 | Garden",
-  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。",
+  "name": "★ 駕駛手套 | 花園",
+  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1965,7 +1965,7 @@
   },
   "pattern": {
    "id": "glove_driver_embroidered_flowers_teal",
-   "name": "Garden"
+   "name": "花園"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2013,8 +2013,8 @@
  },
  {
   "id": "skin-25977544c37d",
-  "name": "★ 駕駛手套 | Hand Sweaters",
-  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。",
+  "name": "★ 駕駛手套 | 手毛衣",
+  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2026,7 +2026,7 @@
   },
   "pattern": {
    "id": "glove_driver_knit_argyle_green",
-   "name": "Hand Sweaters"
+   "name": "手毛衣"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2135,8 +2135,8 @@
  },
  {
   "id": "skin-f31ff8147493",
-  "name": "★ 駕駛手套 | Seigaiha",
-  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。",
+  "name": "★ 駕駛手套 | 青海波",
+  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2148,7 +2148,7 @@
   },
   "pattern": {
    "id": "glove_driver_scallop_metallic_blue",
-   "name": "Seigaiha"
+   "name": "青海波"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2196,8 +2196,8 @@
  },
  {
   "id": "skin-b1dcd2af898f",
-  "name": "★ 駕駛手套 | Wave Chaser",
-  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。",
+  "name": "★ 駕駛手套 | 追浪者",
+  "description": "這雙駕駛手套的材質既能提供防護又能維持觸覺。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2209,7 +2209,7 @@
   },
   "pattern": {
    "id": "glove_driver_silk_dragon_white",
-   "name": "Wave Chaser"
+   "name": "追浪者"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3141,8 +3141,8 @@
  },
  {
   "id": "skin-7b77498783da",
-  "name": "★ 技術士手套 | Lime Polycam",
-  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。",
+  "name": "★ 技術士手套 | 青檸多重迷彩",
+  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3154,7 +3154,7 @@
   },
   "pattern": {
    "id": "glove_specialist_abstract_green",
-   "name": "Lime Polycam"
+   "name": "青檸多重迷彩"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3202,8 +3202,8 @@
  },
  {
   "id": "skin-1f8f2cadf55b",
-  "name": "★ 技術士手套 | Cloud Chaser",
-  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。",
+  "name": "★ 技術士手套 | 追雲者",
+  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3215,7 +3215,7 @@
   },
   "pattern": {
    "id": "glove_specialist_dragon_blue",
-   "name": "Cloud Chaser"
+   "name": "追雲者"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3263,8 +3263,8 @@
  },
  {
   "id": "skin-6d087aad2621",
-  "name": "★ 技術士手套 | Blackbook",
-  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。",
+  "name": "★ 技術士手套 | 黑皮書",
+  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3276,7 +3276,7 @@
   },
   "pattern": {
    "id": "glove_specialist_graffiti_black",
-   "name": "Blackbook"
+   "name": "黑皮書"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3324,8 +3324,8 @@
  },
  {
   "id": "skin-cc0d5dff95fc",
-  "name": "★ 技術士手套 | Chocolate Chesterfield",
-  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。",
+  "name": "★ 技術士手套 | 巧克力沙發",
+  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3337,7 +3337,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_black",
-   "name": "Chocolate Chesterfield"
+   "name": "巧克力沙發"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3385,8 +3385,8 @@
  },
  {
   "id": "skin-da1393aefb9c",
-  "name": "★ 技術士手套 | Pillow Punchers",
-  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。",
+  "name": "★ 技術士手套 | 枕頭拳手",
+  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3398,7 +3398,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_white",
-   "name": "Pillow Punchers"
+   "name": "枕頭拳手"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3446,8 +3446,8 @@
  },
  {
   "id": "skin-aba169232063",
-  "name": "★ 技術士手套 | Sunburst",
-  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。",
+  "name": "★ 技術士手套 | 猛烈陽光",
+  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3459,7 +3459,7 @@
   },
   "pattern": {
    "id": "glove_specialist_sunburst_red",
-   "name": "Sunburst"
+   "name": "猛烈陽光"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3507,8 +3507,8 @@
  },
  {
   "id": "skin-6977cd7028dd",
-  "name": "★ 技術士手套 | Big Swell",
-  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。",
+  "name": "★ 技術士手套 | 大浪潮",
+  "description": "耐用、透氣，又時尚；這雙手套是設計來承受（或給予）打擊的。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3520,7 +3520,7 @@
   },
   "pattern": {
    "id": "glove_specialist_wave_blue",
-   "name": "Big Swell"
+   "name": "大浪潮"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4452,8 +4452,8 @@
  },
  {
   "id": "skin-0f6327fef452",
-  "name": "★ 運動員手套 | Violet Beadwork",
-  "description": "合成纖維使這雙運動手套既耐用又引人注目。",
+  "name": "★ 運動員手套 | 紫珠繡",
+  "description": "合成纖維使這雙運動手套既耐用又引人注目。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4465,7 +4465,7 @@
   },
   "pattern": {
    "id": "glove_sport_beadwork_diamonds_purple",
-   "name": "Violet Beadwork"
+   "name": "紫珠繡"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4513,8 +4513,8 @@
  },
  {
   "id": "skin-c747da872a60",
-  "name": "★ 運動員手套 | Frosty",
-  "description": "合成纖維使這雙運動手套既耐用又引人注目。",
+  "name": "★ 運動員手套 | 霜凍",
+  "description": "合成纖維使這雙運動手套既耐用又引人注目。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4526,7 +4526,7 @@
   },
   "pattern": {
    "id": "glove_sport_camo_winter",
-   "name": "Frosty"
+   "name": "霜凍"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4635,8 +4635,8 @@
  },
  {
   "id": "skin-1cd6adc6787e",
-  "name": "★ 運動員手套 | Creme Pinstripe",
-  "description": "合成纖維使這雙運動手套既耐用又引人注目。",
+  "name": "★ 運動員手套 | 奶油細條",
+  "description": "合成纖維使這雙運動手套既耐用又引人注目。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4648,7 +4648,7 @@
   },
   "pattern": {
    "id": "glove_sport_pinstripe_black",
-   "name": "Creme Pinstripe"
+   "name": "奶油細條"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4696,8 +4696,8 @@
  },
  {
   "id": "skin-01ecc031f210",
-  "name": "★ 運動員手套 | Red Racer",
-  "description": "合成纖維使這雙運動手套既耐用又引人注目。",
+  "name": "★ 運動員手套 | 紅賽車",
+  "description": "合成纖維使這雙運動手套既耐用又引人注目。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4709,7 +4709,7 @@
   },
   "pattern": {
    "id": "glove_sport_racer_red",
-   "name": "Red Racer"
+   "name": "紅賽車"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4757,8 +4757,8 @@
  },
  {
   "id": "skin-635fbb080d7c",
-  "name": "★ 運動員手套 | Ultra Violent",
-  "description": "合成纖維使這雙運動手套既耐用又引人注目。",
+  "name": "★ 運動員手套 | 明艷刺眼",
+  "description": "合成纖維使這雙運動手套既耐用又引人注目。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4770,7 +4770,7 @@
   },
   "pattern": {
    "id": "glove_sport_tech_gradient_bright",
-   "name": "Ultra Violent"
+   "name": "明艷刺眼"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -6697,14 +6697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -13066,7 +13066,7 @@
  {
   "id": "skin-150eda31902a",
   "name": "AUG | 小豬豬",
-  "description": "高威力和高準度， 配有瞄準鏡的AUG是款犧牲換彈速度換取穩定彈道以及射擊速率的突擊步槍。 特點為紅色底漆及以黃色金屬色為點綴的客製化塗裝。槍托底部有隻紅色的豬。\\n\\n<i>以靶場為家</i>",
+  "description": "高威力和高準度， 配有瞄準鏡的AUG是款犧牲換彈速度換取穩定彈道以及射擊速率的突擊步槍。 特點為紅色底漆及以黃色金屬色為點綴的客製化塗裝。槍托尾部有隻紅色的豬。\\n\\n<i>以靶場為家</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -15202,14 +15202,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -21537,14 +21537,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -28922,14 +28922,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -38004,14 +38004,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -43193,14 +43193,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -47858,7 +47858,7 @@
  },
  {
   "id": "skin-ec359b168d17",
-  "name": "Glock-18 | Fully Tuned",
+  "name": "Glock-18 | 完全調諧",
   "description": "Glock 18 是一把堪用且能成切換三點放射擊模式的手槍，在對手未著防彈衣的頭幾個回合中最為有效。 It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
   "weapon": {
    "id": "weapon_glock",
@@ -47871,7 +47871,7 @@
   },
   "pattern": {
    "id": "glock_jdpeek",
-   "name": "Fully Tuned"
+   "name": "完全調諧"
   },
   "min_float": 0,
   "max_float": 1,
@@ -47908,14 +47908,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -90285,14 +90285,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -94316,14 +94316,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -97415,14 +97415,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -109633,14 +109633,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -113337,14 +113337,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -123238,14 +123238,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -127207,14 +127207,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -132697,14 +132697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -149520,14 +149520,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -152995,14 +152995,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "死亡之手收藏",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "密封的死亡之手終端機",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],

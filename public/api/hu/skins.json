@@ -1769,8 +1769,8 @@
  },
  {
   "id": "skin-b8f492474850",
-  "name": "Sofőrkesztyű (★) | Brocade Crane",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Brokát Daru",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1782,7 +1782,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_crane_red",
-   "name": "Brocade Crane"
+   "name": "Brokát Daru"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1830,8 +1830,8 @@
  },
  {
   "id": "skin-d9b9add3d4ae",
-  "name": "Sofőrkesztyű (★) | Brocade Flowers",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Brokát Virágok",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1843,7 +1843,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_flower_red",
-   "name": "Brocade Flowers"
+   "name": "Brokát Virágok"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1891,8 +1891,8 @@
  },
  {
   "id": "skin-f9ff211df27d",
-  "name": "Sofőrkesztyű (★) | Dragon Fists",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Sárkányöklök",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1904,7 +1904,7 @@
   },
   "pattern": {
    "id": "glove_driver_dragon_scale_red",
-   "name": "Dragon Fists"
+   "name": "Sárkányöklök"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1952,8 +1952,8 @@
  },
  {
   "id": "skin-2d7a4c354277",
-  "name": "Sofőrkesztyű (★) | Garden",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Virágoskert",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1965,7 +1965,7 @@
   },
   "pattern": {
    "id": "glove_driver_embroidered_flowers_teal",
-   "name": "Garden"
+   "name": "Virágoskert"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2013,8 +2013,8 @@
  },
  {
   "id": "skin-25977544c37d",
-  "name": "Sofőrkesztyű (★) | Hand Sweaters",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Kézpulóver",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2026,7 +2026,7 @@
   },
   "pattern": {
    "id": "glove_driver_knit_argyle_green",
-   "name": "Hand Sweaters"
+   "name": "Kézpulóver"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2074,8 +2074,8 @@
  },
  {
   "id": "skin-c79f644ef9e1",
-  "name": "Sofőrkesztyű (★) | Plum Quill",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Szilva Toll",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2087,7 +2087,7 @@
   },
   "pattern": {
    "id": "glove_driver_ostrich_purple",
-   "name": "Plum Quill"
+   "name": "Szilva Toll"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2135,8 +2135,8 @@
  },
  {
   "id": "skin-f31ff8147493",
-  "name": "Sofőrkesztyű (★) | Seigaiha",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Szejgajha",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2148,7 +2148,7 @@
   },
   "pattern": {
    "id": "glove_driver_scallop_metallic_blue",
-   "name": "Seigaiha"
+   "name": "Szejgajha"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2196,8 +2196,8 @@
  },
  {
   "id": "skin-b1dcd2af898f",
-  "name": "Sofőrkesztyű (★) | Wave Chaser",
-  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést.",
+  "name": "Sofőrkesztyű (★) | Hullámhajszoló",
+  "description": "Ezek a sofőrkesztyűk védelmet nyújtanak az időjárással szemben, miközben fenntartják a tapintó-érzékelést. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2209,7 +2209,7 @@
   },
   "pattern": {
    "id": "glove_driver_silk_dragon_white",
-   "name": "Wave Chaser"
+   "name": "Hullámhajszoló"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3141,8 +3141,8 @@
  },
  {
   "id": "skin-7b77498783da",
-  "name": "Specialista kesztyűk (★) | Lime Polycam",
-  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát.",
+  "name": "Specialista kesztyűk (★) | Lime Poliálca",
+  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3154,7 +3154,7 @@
   },
   "pattern": {
    "id": "glove_specialist_abstract_green",
-   "name": "Lime Polycam"
+   "name": "Lime Poliálca"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3202,8 +3202,8 @@
  },
  {
   "id": "skin-1f8f2cadf55b",
-  "name": "Specialista kesztyűk (★) | Cloud Chaser",
-  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát.",
+  "name": "Specialista kesztyűk (★) | Felhőkergető",
+  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3215,7 +3215,7 @@
   },
   "pattern": {
    "id": "glove_specialist_dragon_blue",
-   "name": "Cloud Chaser"
+   "name": "Felhőkergető"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3263,8 +3263,8 @@
  },
  {
   "id": "skin-6d087aad2621",
-  "name": "Specialista kesztyűk (★) | Blackbook",
-  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát.",
+  "name": "Specialista kesztyűk (★) | Fekete Könyv",
+  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3276,7 +3276,7 @@
   },
   "pattern": {
    "id": "glove_specialist_graffiti_black",
-   "name": "Blackbook"
+   "name": "Fekete Könyv"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3324,8 +3324,8 @@
  },
  {
   "id": "skin-cc0d5dff95fc",
-  "name": "Specialista kesztyűk (★) | Chocolate Chesterfield",
-  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát.",
+  "name": "Specialista kesztyűk (★) | Csokoládé Szófa",
+  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3337,7 +3337,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_black",
-   "name": "Chocolate Chesterfield"
+   "name": "Csokoládé Szófa"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3385,8 +3385,8 @@
  },
  {
   "id": "skin-da1393aefb9c",
-  "name": "Specialista kesztyűk (★) | Pillow Punchers",
-  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát.",
+  "name": "Specialista kesztyűk (★) | Párnapofozók",
+  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3398,7 +3398,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_white",
-   "name": "Pillow Punchers"
+   "name": "Párnapofozók"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3446,8 +3446,8 @@
  },
  {
   "id": "skin-aba169232063",
-  "name": "Specialista kesztyűk (★) | Sunburst",
-  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát.",
+  "name": "Specialista kesztyűk (★) | Napkitörés",
+  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3459,7 +3459,7 @@
   },
   "pattern": {
    "id": "glove_specialist_sunburst_red",
-   "name": "Sunburst"
+   "name": "Napkitörés"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3507,8 +3507,8 @@
  },
  {
   "id": "skin-6977cd7028dd",
-  "name": "Specialista kesztyűk (★) | Big Swell",
-  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát.",
+  "name": "Specialista kesztyűk (★) | Nagy Hullám",
+  "description": "Tartós, légáteresztő és stílusos; ezek a kesztyűk bírják a strapát. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3520,7 +3520,7 @@
   },
   "pattern": {
    "id": "glove_specialist_wave_blue",
-   "name": "Big Swell"
+   "name": "Nagy Hullám"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4452,8 +4452,8 @@
  },
  {
   "id": "skin-0f6327fef452",
-  "name": "Sportkesztyűk (★) | Violet Beadwork",
-  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket.",
+  "name": "Sportkesztyűk (★) | Ibolya Gyöngyfűzés",
+  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4465,7 +4465,7 @@
   },
   "pattern": {
    "id": "glove_sport_beadwork_diamonds_purple",
-   "name": "Violet Beadwork"
+   "name": "Ibolya Gyöngyfűzés"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4513,8 +4513,8 @@
  },
  {
   "id": "skin-c747da872a60",
-  "name": "Sportkesztyűk (★) | Frosty",
-  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket.",
+  "name": "Sportkesztyűk (★) | Fagyos",
+  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4526,7 +4526,7 @@
   },
   "pattern": {
    "id": "glove_sport_camo_winter",
-   "name": "Frosty"
+   "name": "Fagyos"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4635,8 +4635,8 @@
  },
  {
   "id": "skin-1cd6adc6787e",
-  "name": "Sportkesztyűk (★) | Creme Pinstripe",
-  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket.",
+  "name": "Sportkesztyűk (★) | Krémszínű Hímzett",
+  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4648,7 +4648,7 @@
   },
   "pattern": {
    "id": "glove_sport_pinstripe_black",
-   "name": "Creme Pinstripe"
+   "name": "Krémszínű Hímzett"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4696,8 +4696,8 @@
  },
  {
   "id": "skin-01ecc031f210",
-  "name": "Sportkesztyűk (★) | Red Racer",
-  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket.",
+  "name": "Sportkesztyűk (★) | Vörös Versenyző",
+  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4709,7 +4709,7 @@
   },
   "pattern": {
    "id": "glove_sport_racer_red",
-   "name": "Red Racer"
+   "name": "Vörös Versenyző"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4757,8 +4757,8 @@
  },
  {
   "id": "skin-635fbb080d7c",
-  "name": "Sportkesztyűk (★) | Ultra Violent",
-  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket.",
+  "name": "Sportkesztyűk (★) | Ultra Erőszakos",
+  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4770,7 +4770,7 @@
   },
   "pattern": {
    "id": "glove_sport_tech_gradient_bright",
-   "name": "Ultra Violent"
+   "name": "Ultra Erőszakos"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4818,8 +4818,8 @@
  },
  {
   "id": "skin-9ff0ea2301d4",
-  "name": "Sportkesztyűk (★) | Occult",
-  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket.",
+  "name": "Sportkesztyűk (★) | Okkult",
+  "description": "A szintetikus anyagok tartóssá és szemet gyönyörködtetővé teszik ezeket a sportkesztyűket. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4831,7 +4831,7 @@
   },
   "pattern": {
    "id": "glove_sport_velvet_red",
-   "name": "Occult"
+   "name": "Okkult"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -6647,8 +6647,8 @@
  },
  {
   "id": "skin-f64cdaac0b90",
-  "name": "AK-47 | Crane Flight",
-  "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "name": "AK-47 | Repülő Daru",
+  "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Egy darut és arany díszítéseket festettek fekete-fehér alapra.\\n\\n<i>A vérhold előtt.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -6660,7 +6660,7 @@
   },
   "pattern": {
    "id": "ak47_crane_flight",
-   "name": "Crane Flight"
+   "name": "Repülő Daru"
   },
   "min_float": 0,
   "max_float": 1,
@@ -6697,14 +6697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -15152,8 +15152,8 @@
  },
  {
   "id": "skin-66197377b028",
-  "name": "AWP | Queen's Gambit",
-  "description": "Magas kockázat és magas nyereség; a hírhedt AWP jellegzetes lövéshangjáról, és egy lövés, egy ölés szabályáról ismerhető fel. It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+  "name": "AWP | Vezércsel",
+  "description": "Magas kockázat és magas nyereség; a hírhedt AWP jellegzetes lövéshangjáról, és egy lövés, egy ölés szabályáról ismerhető fel. Királykék és arany egyedi festést kapott. A válltámasz elé egy királynőt festettek.\\n\\n<i>Minden lövés a hatalom és pontosság királyi rendelete.</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -15165,7 +15165,7 @@
   },
   "pattern": {
    "id": "awp_queens_gambit",
-   "name": "Queen's Gambit"
+   "name": "Vezércsel"
   },
   "min_float": 0,
   "max_float": 1,
@@ -15202,14 +15202,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -21488,7 +21488,7 @@
  {
   "id": "skin-fb5805d13a5e",
   "name": "PP-Bizon | RMX",
-  "description": "A Bizon géppisztoly kis sebzésű, de egyedülállóan kialakított dobtárral rendelkezik, amely gyors újratöltést eredményez. It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "description": "A Bizon géppisztoly kis sebzésű, de egyedülállóan kialakított dobtárral rendelkezik, amely gyors újratöltést eredményez. Lila színátmenetet és piros-fehér mintákat festettek rá.\\n\\n<i>Könnyű, gyors és veszélyes... Elméletben.</i>",
   "weapon": {
    "id": "weapon_bizon",
    "weapon_id": 26,
@@ -21537,14 +21537,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -28872,8 +28872,8 @@
  },
  {
   "id": "skin-2bcac1c42296",
-  "name": "Desert Eagle | Firebreathing",
-  "description": "A legendás Desert Eagle pisztoly olyan erős, amilyen drága; nehéz a mesterévé válni, de meglepően pontos nagy távolságra. It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "name": "Desert Eagle | Tűzokádó",
+  "description": "A legendás Desert Eagle pisztoly olyan erős, amilyen drága; nehéz a mesterévé válni, de meglepően pontos nagy távolságra. Gyöngyházfényű festékkel lila és kék lángokat festettek rá.\\n\\n<i>Kivételes tulajdonságokat és képességeket tartalmaz.</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -28885,7 +28885,7 @@
   },
   "pattern": {
    "id": "deagle_firebreathing",
-   "name": "Firebreathing"
+   "name": "Tűzokádó"
   },
   "min_float": 0,
   "max_float": 1,
@@ -28922,14 +28922,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -37954,8 +37954,8 @@
  },
  {
   "id": "skin-19e064301c88",
-  "name": "Five-SeveN | Dark Polymer",
-  "description": "A nagyon pontos és páncélátütő, borsos árú Five-Seven lassú újratöltésű, amit bőséges, 20 lőszeres tárral és megbocsátható visszarúgással egyenlít ki. This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "name": "Five-SeveN | Sötét Műanyag",
+  "description": "A nagyon pontos és páncélátütő, borsos árú Five-Seven lassú újratöltésű, amit bőséges, 20 lőszeres tárral és megbocsátható visszarúgással egyenlít ki. Ez az egyedi festés olyan hatást kelt, mintha a fegyver átlátszó lila műanyagból készült volna.\\n\\n<i>Lila cukorkapapírba csomagolva.</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -37967,7 +37967,7 @@
   },
   "pattern": {
    "id": "fiveseven_polymer_dark",
-   "name": "Dark Polymer"
+   "name": "Sötét Műanyag"
   },
   "min_float": 0,
   "max_float": 1,
@@ -38004,14 +38004,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -43143,8 +43143,8 @@
  },
  {
   "id": "skin-8571b4f29f98",
-  "name": "Galil AR | Galigator",
-  "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
+  "name": "Galil AR | Galigátor",
+  "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Egy aligátort és méregjelzéseket festettek zöld és sárga alapra.\\n\\n<i>NYAMM! NYAMM! NYAMM!</i>",
   "weapon": {
    "id": "weapon_galilar",
    "weapon_id": 13,
@@ -43156,7 +43156,7 @@
   },
   "pattern": {
    "id": "galil_galigator",
-   "name": "Galigator"
+   "name": "Galigátor"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43193,14 +43193,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -47858,8 +47858,8 @@
  },
  {
   "id": "skin-ec359b168d17",
-  "name": "Glock-18 | Fully Tuned",
-  "description": "A Glock 18 használható első körös pisztoly, amely páncél nélküli ellenfelekkel szemben működik a legjobban, és háromlövéses sorozattűzre képes. It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "name": "Glock-18 | Teljes Tuning",
+  "description": "A Glock 18 használható első körös pisztoly, amely páncél nélküli ellenfelekkel szemben működik a legjobban, és háromlövéses sorozattűzre képes. Neon színekkel és fémes csillámfestékkel készült egyedi festést kapott.\\n\\n<i>Nekem ez kicsit sok, de nem én vagyok a célközönség... – Booth, fegyverkereskedő</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -47871,7 +47871,7 @@
   },
   "pattern": {
    "id": "glock_jdpeek",
-   "name": "Fully Tuned"
+   "name": "Teljes Tuning"
   },
   "min_float": 0,
   "max_float": 1,
@@ -47908,14 +47908,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -90235,8 +90235,8 @@
  },
  {
   "id": "skin-526e890d5739",
-  "name": "M249 | Bock Blocks",
-  "description": "Az M249 erős, nyílt terepre szánt géppuska, mely tökéletes választás olyan játékosoknak, akik hajlandók elfogadni az alacsonyabb tűzgyorsaságot magasabb pontosságért és lőszerkapacitásért. It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "name": "M249 | Bock Blokkok",
+  "description": "Az M249 erős, nyílt terepre szánt géppuska, mely tökéletes választás olyan játékosoknak, akik hajlandók elfogadni az alacsonyabb tűzgyorsaságot magasabb pontosságért és lőszerkapacitásért. Lila absztrakt geometriai mintás egyedi festést kapott.\\n\\n<i>Halomra velük.</i>",
   "weapon": {
    "id": "weapon_m249",
    "weapon_id": 14,
@@ -90248,7 +90248,7 @@
   },
   "pattern": {
    "id": "m249_blocks_purple",
-   "name": "Bock Blocks"
+   "name": "Bock Blokkok"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90285,14 +90285,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -94266,8 +94266,8 @@
  },
  {
   "id": "skin-ca4c3950bda2",
-  "name": "M4A4 | Zubastick",
-  "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
+  "name": "M4A4 | Zubabot",
+  "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Erre az M4A4-re fogakat és narancssárga szemeket festettek.\\n\\n<i>Kb. 1991.</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -94279,7 +94279,7 @@
   },
   "pattern": {
    "id": "m4a4_zubastick_bw",
-   "name": "Zubastick"
+   "name": "Zubabot"
   },
   "min_float": 0,
   "max_float": 1,
@@ -94316,14 +94316,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -97365,8 +97365,8 @@
  },
  {
   "id": "skin-62ecfa87b86d",
-  "name": "M4A1-S | Electrum",
-  "description": "A némítatlan társánál kisebb tárral rendelkező hangtompítós M4A1 halkabb lövéseket biztosít kisebb visszarúgással és nagyobb pontossággal. It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "name": "M4A1-S | Elektrum",
+  "description": "A némítatlan társánál kisebb tárral rendelkező hangtompítós M4A1 halkabb lövéseket biztosít kisebb visszarúgással és nagyobb pontossággal. Márványos zöld alapfestést, valamint arany és piros díszítéseket kapott.\\n\\n<i>Ők nem fizetnek eleget azért, hogy ez legyen nálad, de én fogok. – Valeria Jenner, forradalmár</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -97378,7 +97378,7 @@
   },
   "pattern": {
    "id": "m4a1s_electrum",
-   "name": "Electrum"
+   "name": "Elektrum"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97415,14 +97415,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -109584,7 +109584,7 @@
  {
   "id": "skin-55d44f236355",
   "name": "MP7 | Amberline",
-  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. Szórással átlós narancssárga és fehér csíkokat festettek rá.\\n\\n<i>Márka a kézben.</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -109633,14 +109633,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -113287,8 +113287,8 @@
  },
  {
   "id": "skin-36e373c7de1c",
-  "name": "MP9 | Urban Sovereign",
-  "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. It has been custom painted with an urban material design and finished with gold graffiti.\\n\\n<i>Kings don't hide behind walls, they paint them</i>",
+  "name": "MP9 | Városi Uralkodó",
+  "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. A városi anyagokat megjelenítő egyedi festést arany falfirkákkal díszítették.\\n\\n<i>A királyok nem bújnak falak mögé, hanem festenek rájuk.</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -113300,7 +113300,7 @@
   },
   "pattern": {
    "id": "mp9_urban_sovereign",
-   "name": "Urban Sovereign"
+   "name": "Városi Uralkodó"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113337,14 +113337,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -123188,8 +123188,8 @@
  },
  {
   "id": "skin-2f5828f37817",
-  "name": "P250 | Kintsugi",
-  "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "name": "P250 | Kincugi",
+  "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. Egy feltűnő narancssárga madarat és arany díszítéseket festettek elefántcsontszínű alapra.\\n\\n<i>Mint azokat a díszes tányérokat, ezt a fegyvert is csak különleges alkalmakkor használják.</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123201,7 +123201,7 @@
   },
   "pattern": {
    "id": "p250_kintsugi",
-   "name": "Kintsugi"
+   "name": "Kincugi"
   },
   "min_float": 0,
   "max_float": 1,
@@ -123238,14 +123238,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -127157,8 +127157,8 @@
  },
  {
   "id": "skin-612576d81a84",
-  "name": "P90 | Deathgaze",
-  "description": "A különleges hátsótáras felépítéséről könnyen felismerhető P90 nagyszerű fegyver mozgás közbeni tüzeléshez, nagy kapacitású tára és kis visszarúgása miatt. It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "name": "P90 | Halálpillantás",
+  "description": "A különleges hátsótáras felépítéséről könnyen felismerhető P90 nagyszerű fegyver mozgás közbeni tüzeléshez, nagy kapacitású tára és kis visszarúgása miatt. Carrarai márvány alapra graffiti stílusú Meduszát festették.\\n\\n<i>Ne imádd a megtévesztés alapjaira épült bálványokat.</i>",
   "weapon": {
    "id": "weapon_p90",
    "weapon_id": 19,
@@ -127170,7 +127170,7 @@
   },
   "pattern": {
    "id": "p90_deathgaze",
-   "name": "Deathgaze"
+   "name": "Halálpillantás"
   },
   "min_float": 0,
   "max_float": 1,
@@ -127207,14 +127207,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -132647,8 +132647,8 @@
  },
  {
   "id": "skin-39ceb900b437",
-  "name": "Lefűrészelt csövű sörétes | Fusion",
-  "description": "A klasszikus lefűrészelt csövű sörétes nagyon súlyos sebzést okoz közelre, de alacsony pontossága, nagy szórása és alacsony tűzgyorsasága miatt jobb, ha meg is ölöd, amit eltaláltál. It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
+  "name": "Lefűrészelt csövű sörétes | Fúzió",
+  "description": "A klasszikus lefűrészelt csövű sörétes nagyon súlyos sebzést okoz közelre, de alacsony pontossága, nagy szórása és alacsony tűzgyorsasága miatt jobb, ha meg is ölöd, amit eltaláltál. Fekete és aranyszínű mintákat festettek rá. Különböző fényviszonyok további részleteket fednek fel.\\n\\n<i>Láttam én már ezt-azt...</i>",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -132660,7 +132660,7 @@
   },
   "pattern": {
    "id": "sawedoff_fusion",
-   "name": "Fusion"
+   "name": "Fúzió"
   },
   "min_float": 0,
   "max_float": 1,
@@ -132697,14 +132697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -149470,8 +149470,8 @@
  },
  {
   "id": "skin-40743fbc40a8",
-  "name": "UMP-45 | Fragment",
-  "description": "A géppisztolyok családjának félreértett középső gyermekének, az UMP45-nek csak a kis tára az egyetlen hátránya, egyébként sokoldalú automata közelharcfegyver. It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "name": "UMP-45 | Töredék",
+  "description": "A géppisztolyok családjának félreértett középső gyermekének, az UMP45-nek csak a kis tára az egyetlen hátránya, egyébként sokoldalú automata közelharcfegyver. Ezüst, fekete és piros mintákból álló egyedi festést kapott.\\n\\n<i>Mentem gyakni.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -149483,7 +149483,7 @@
   },
   "pattern": {
    "id": "ump_fragment",
-   "name": "Fragment"
+   "name": "Töredék"
   },
   "min_float": 0,
   "max_float": 1,
@@ -149520,14 +149520,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -152945,8 +152945,8 @@
  },
  {
   "id": "skin-12f8829b002d",
-  "name": "USP-S | Silent Shot",
-  "description": "A Counter-Strike: Source közönség-kedvence, a hangtompítós USP pisztoly leszerelhető hangtompítóval rendelkezik, ami egyszerre csökkenti a lövés visszarúgását és nyomja el figyelemfelkeltő zaját. It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "name": "USP-S | Csendes Lövés",
+  "description": "A Counter-Strike: Source közönség-kedvence, a hangtompítós USP pisztoly leszerelhető hangtompítóval rendelkezik, ami egyszerre csökkenti a lövés visszarúgását és nyomja el figyelemfelkeltő zaját. Kék alapon japán írásjeleket és egy kék dobócsillagot festettek rá.\\n\\n<i>Agresszió végrehajtása közben gyakorolj diszkréciót.</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -152958,7 +152958,7 @@
   },
   "pattern": {
    "id": "usps_silent_boy",
-   "name": "Silent Shot"
+   "name": "Csendes Lövés"
   },
   "min_float": 0,
   "max_float": 1,
@@ -152995,14 +152995,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "A Halott Kéz Gyűjtemény",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Lezárt Halott Kéz terminál",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],

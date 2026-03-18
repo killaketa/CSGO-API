@@ -151781,7 +151781,7 @@
  },
  {
   "id": "crate-5181",
-  "name": "Sealed Dead Hand Terminal",
+  "name": "密封的死亡之手終端機",
   "description": null,
   "def_index": "5181",
   "type": null,
@@ -151970,7 +151970,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Glock-18 | Fully Tuned",
+    "name": "Glock-18 | 完全調諧",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "隱蔽",

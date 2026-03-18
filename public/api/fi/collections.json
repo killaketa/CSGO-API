@@ -16055,11 +16055,11 @@
  },
  {
   "id": "collection-set-community-37",
-  "name": "The Dead Hand Collection",
+  "name": "Kalmankäsi-kokoelma",
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Sinetöity Kalmankäsi-terminaali",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -16088,7 +16088,7 @@
    },
    {
     "id": "skin-40743fbc40a8",
-    "name": "UMP-45 | Fragment",
+    "name": "UMP-45 | Fragmentti",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Armeijatason",
@@ -16099,7 +16099,7 @@
    },
    {
     "id": "skin-39ceb900b437",
-    "name": "Katkaistu haulikko | Fusion",
+    "name": "Katkaistu haulikko | Fuusio",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Armeijatason",
@@ -16110,7 +16110,7 @@
    },
    {
     "id": "skin-19e064301c88",
-    "name": "Five-SeveN | Dark Polymer",
+    "name": "Five-SeveN | Tumma polymeeri",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Armeijatason",
@@ -16121,7 +16121,7 @@
    },
    {
     "id": "skin-12f8829b002d",
-    "name": "USP-S | Silent Shot",
+    "name": "USP-S | Hiljainen laukaus",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Armeijatason",
@@ -16143,7 +16143,7 @@
    },
    {
     "id": "skin-2bcac1c42296",
-    "name": "Desert Eagle | Firebreathing",
+    "name": "Desert Eagle | Tulenhönkäys",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Rajoitettu",
@@ -16165,7 +16165,7 @@
    },
    {
     "id": "skin-55d44f236355",
-    "name": "MP7 | Amberline",
+    "name": "MP7 | Kullan kajo",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Rajoitettu",
@@ -16176,7 +16176,7 @@
    },
    {
     "id": "skin-8571b4f29f98",
-    "name": "Galil AR | Galigator",
+    "name": "Galil AR | Galigaattori",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Rajoitettu",
@@ -16187,7 +16187,7 @@
    },
    {
     "id": "skin-36e373c7de1c",
-    "name": "MP9 | Urban Sovereign",
+    "name": "MP9 | Urbaani kingi",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Rajoitettu",
@@ -16198,7 +16198,7 @@
    },
    {
     "id": "skin-f64cdaac0b90",
-    "name": "AK-47 | Crane Flight",
+    "name": "AK-47 | Kurjenlento",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Luottamuksellinen",
@@ -16220,7 +16220,7 @@
    },
    {
     "id": "skin-612576d81a84",
-    "name": "P90 | Deathgaze",
+    "name": "P90 | Kalmankatse",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Luottamuksellinen",
@@ -16231,7 +16231,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "AWP | Queen's Gambit",
+    "name": "AWP | Musta kuningatar",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Salainen",
@@ -16242,7 +16242,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Glock-18 | Fully Tuned",
+    "name": "Glock-18 | Täysin tuunattu",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Salainen",

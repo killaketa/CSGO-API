@@ -1770,7 +1770,7 @@
  {
   "id": "skin-b8f492474850",
   "name": "★ Driver Gloves | Brocade Crane",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1831,7 +1831,7 @@
  {
   "id": "skin-d9b9add3d4ae",
   "name": "★ Driver Gloves | Brocade Flowers",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1892,7 +1892,7 @@
  {
   "id": "skin-f9ff211df27d",
   "name": "★ Driver Gloves | Dragon Fists",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1952,8 +1952,8 @@
  },
  {
   "id": "skin-2d7a4c354277",
-  "name": "★ Driver Gloves | Garden",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "name": "★ Driver Gloves | 庭",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1965,7 +1965,7 @@
   },
   "pattern": {
    "id": "glove_driver_embroidered_flowers_teal",
-   "name": "Garden"
+   "name": "庭"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2014,7 +2014,7 @@
  {
   "id": "skin-25977544c37d",
   "name": "★ Driver Gloves | Hand Sweaters",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2075,7 +2075,7 @@
  {
   "id": "skin-c79f644ef9e1",
   "name": "★ Driver Gloves | Plum Quill",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2136,7 +2136,7 @@
  {
   "id": "skin-f31ff8147493",
   "name": "★ Driver Gloves | Seigaiha",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2197,7 +2197,7 @@
  {
   "id": "skin-b1dcd2af898f",
   "name": "★ Driver Gloves | Wave Chaser",
-  "description": "触覚を維持しつつ様々な要因から手を保護する。",
+  "description": "触覚を維持しつつ様々な要因から手を保護する。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -3142,7 +3142,7 @@
  {
   "id": "skin-7b77498783da",
   "name": "★ Specialist Gloves | Lime Polycam",
-  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。",
+  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3203,7 +3203,7 @@
  {
   "id": "skin-1f8f2cadf55b",
   "name": "★ Specialist Gloves | Cloud Chaser",
-  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。",
+  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3264,7 +3264,7 @@
  {
   "id": "skin-6d087aad2621",
   "name": "★ Specialist Gloves | Blackbook",
-  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。",
+  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3325,7 +3325,7 @@
  {
   "id": "skin-cc0d5dff95fc",
   "name": "★ Specialist Gloves | Chocolate Chesterfield",
-  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。",
+  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3386,7 +3386,7 @@
  {
   "id": "skin-da1393aefb9c",
   "name": "★ Specialist Gloves | Pillow Punchers",
-  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。",
+  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3447,7 +3447,7 @@
  {
   "id": "skin-aba169232063",
   "name": "★ Specialist Gloves | Sunburst",
-  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。",
+  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3508,7 +3508,7 @@
  {
   "id": "skin-6977cd7028dd",
   "name": "★ Specialist Gloves | Big Swell",
-  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。",
+  "description": "丈夫で通気性がよく、そしてスタイリッシュ。打たれ強く血の気の多いあなたに。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -4453,7 +4453,7 @@
  {
   "id": "skin-0f6327fef452",
   "name": "★ Sport Gloves | Violet Beadwork",
-  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。",
+  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4514,7 +4514,7 @@
  {
   "id": "skin-c747da872a60",
   "name": "★ Sport Gloves | Frosty",
-  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。",
+  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4636,7 +4636,7 @@
  {
   "id": "skin-1cd6adc6787e",
   "name": "★ Sport Gloves | Creme Pinstripe",
-  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。",
+  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4697,7 +4697,7 @@
  {
   "id": "skin-01ecc031f210",
   "name": "★ Sport Gloves | Red Racer",
-  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。",
+  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4758,7 +4758,7 @@
  {
   "id": "skin-635fbb080d7c",
   "name": "★ Sport Gloves | Ultra Violent",
-  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。",
+  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4819,7 +4819,7 @@
  {
   "id": "skin-9ff0ea2301d4",
   "name": "★ Sport Gloves | Occult",
-  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。",
+  "description": "合成繊維によって耐久性とデザイン性を両立したアスレチックグローブ。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -6648,7 +6648,7 @@
  {
   "id": "skin-f64cdaac0b90",
   "name": "AK-47 | Crane Flight",
-  "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 黒と白の下地に鶴とゴールドのアクセントを手描きでペイント。\\n\\n<i>ブラッドムーンの前触れ</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -6697,14 +6697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -15153,7 +15153,7 @@
  {
   "id": "skin-66197377b028",
   "name": "AWP | Queen's Gambit",
-  "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+  "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 ロイヤルブルーとゴールドでカスタムペイント。バットストック前方には女王が手描きされている。\\n\\n<i>一発一発が力強く精密な勅令だ</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -15202,14 +15202,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -21488,7 +21488,7 @@
  {
   "id": "skin-fb5805d13a5e",
   "name": "PP-Bizon | RMX",
-  "description": "Bizon サブマシンガンは威力こそ弱いものの、 素早くリロードできる独特な構造の大容量ドラムマガジンを備えている。 It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "description": "Bizon サブマシンガンは威力こそ弱いものの、 素早くリロードできる独特な構造の大容量ドラムマガジンを備えている。 紫のグラデーションと赤と白のデザインをカスタムペイント。\\n\\n<i>軽くて速くて危険…理論上は</i>",
   "weapon": {
    "id": "weapon_bizon",
    "weapon_id": 26,
@@ -21537,14 +21537,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -28873,7 +28873,7 @@
  {
   "id": "skin-2bcac1c42296",
   "name": "Desert Eagle | Firebreathing",
-  "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 パール光沢の塗料を使用して紫と青の炎をカスタムペイント。\\n\\n<i>並外れた特性と能力を秘めている</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -28922,14 +28922,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -37955,7 +37955,7 @@
  {
   "id": "skin-19e064301c88",
   "name": "Five-SeveN | Dark Polymer",
-  "description": "Five-Seven は精度と貫通能力が優れている。高価なうえに装填速度も遅いが、20発の大容量弾倉と低反動によってその短所を補っている。 This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "description": "Five-Seven は精度と貫通能力が優れている。高価なうえに装填速度も遅いが、20発の大容量弾倉と低反動によってその短所を補っている。 武器が透明な紫のポリマーでできているようにカスタムペイント。\\n\\n<i>紫色のキャンディシェルで包まれて</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -38004,14 +38004,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -43144,7 +43144,7 @@
  {
   "id": "skin-8571b4f29f98",
   "name": "Galil AR | Galigator",
-  "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
+  "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 緑と黄色の下地にワニと放射線マークをカスタムペイント。\\n\\n<i>ガブッ！ガブッ！ガブッ！</i>",
   "weapon": {
    "id": "weapon_galilar",
    "weapon_id": 13,
@@ -43193,14 +43193,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -47859,7 +47859,7 @@
  {
   "id": "skin-ec359b168d17",
   "name": "Glock-18 | Fully Tuned",
-  "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 ネオンカラーとメタリックのグリッターでカスタムペイント\\n\\n<i>ちょっとやり過ぎな気もするが、まあ俺向けじゃないからな。―武器商人 ブース</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -47908,14 +47908,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -90236,7 +90236,7 @@
  {
   "id": "skin-526e890d5739",
   "name": "M249 | Bock Blocks",
-  "description": "開けた場所での運用時に威力を発揮する M249 は、連射速度よりも精度と装弾数を重視するプレイヤーに最適な LMG だ。 It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "description": "開けた場所での運用時に威力を発揮する M249 は、連射速度よりも精度と装弾数を重視するプレイヤーに最適な LMG だ。 紫のグラフィック調の幾何学模様をカスタムペイント。\\n\\n<i>積み重ねろ</i>",
   "weapon": {
    "id": "weapon_m249",
    "weapon_id": 14,
@@ -90285,14 +90285,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -94267,7 +94267,7 @@
  {
   "id": "skin-ca4c3950bda2",
   "name": "M4A4 | Zubastick",
-  "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
+  "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 M4A4 に牙とオレンジ色の目を手描きでペイント。\\n\\n<i>1991年頃</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -94316,14 +94316,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -97366,7 +97366,7 @@
  {
   "id": "skin-62ecfa87b86d",
   "name": "M4A1-S | Electrum",
-  "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 マーブル調の緑色の下地をカスタムペイントし、ゴールドと赤のアクセントで仕上げ。\\n\\n<i>それを担ぐには、金が足りない。だが、私はやる。―革命家 ヴァレリア・ジェンナー</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -97415,14 +97415,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -109584,7 +109584,7 @@
  {
   "id": "skin-55d44f236355",
   "name": "MP7 | Amberline",
-  "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 オレンジと白の斜めのストライプをスプレーペイント。\\n\\n<i>手にした証</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -109633,14 +109633,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -113288,7 +113288,7 @@
  {
   "id": "skin-36e373c7de1c",
   "name": "MP9 | Urban Sovereign",
-  "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 It has been custom painted with an urban material design and finished with gold graffiti.\\n\\n<i>Kings don't hide behind walls, they paint them</i>",
+  "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 都会的なマテリアルデザインでカスタムペイントし、ゴールドのグラフィティで仕上げ。\\n\\n<i>王は壁の陰に隠れることはない。自らの手で壁を描く</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -113337,14 +113337,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -123189,7 +123189,7 @@
  {
   "id": "skin-2f5828f37817",
   "name": "P250 | Kintsugi",
-  "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 アイボリーカラーの下地の上に目を引くオレンジ色の鳥とゴールドのアクセントをカスタムペイント。\\n\\n<i>高級なディナープレートのように、この武器も特別なときにしか使わない</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123238,14 +123238,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -127158,7 +127158,7 @@
  {
   "id": "skin-612576d81a84",
   "name": "P90 | Deathgaze",
-  "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 カッラーラ大理石の下地にグラフィティ風のメデューサをカスタムペイント。\\n\\n<i>欺瞞の元に築かれた偶像を崇めるな</i>",
   "weapon": {
    "id": "weapon_p90",
    "weapon_id": 19,
@@ -127207,14 +127207,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -132648,7 +132648,7 @@
  {
   "id": "skin-39ceb900b437",
   "name": "Sawed-Off | Fusion",
-  "description": "古典的な Sawed-Off は激しい近距離ダメージを与えるが、精度の低さや低い集弾性、連射速度の低さを考えると、狙った敵を仕留めないと困ったことになる。 It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
+  "description": "古典的な Sawed-Off は激しい近距離ダメージを与えるが、精度の低さや低い集弾性、連射速度の低さを考えると、狙った敵を仕留めないと困ったことになる。 黒とゴールドのデザインをカスタムペイント。照明によって異なるディティールが浮かび上がる。\\n\\n<i>この「目」で色々と見てきた…",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -132697,14 +132697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -149471,7 +149471,7 @@
  {
   "id": "skin-40743fbc40a8",
   "name": "UMP-45 | Fragment",
-  "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 シルバー、黒、赤のデザインをカスタムペイント。\\n\\n<i>キル取ってくる</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -149520,14 +149520,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -152946,7 +152946,7 @@
  {
   "id": "skin-12f8829b002d",
   "name": "USP-S | Silent Shot",
-  "description": "『Counter-Strike Source』ファンのお気に入りである消音 USP ピストルには、射撃時の反動や、注意を引く雑音を抑え、なおかつ取り外し可能なサイレンサーが付いている。 It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "description": "『Counter-Strike Source』ファンのお気に入りである消音 USP ピストルには、射撃時の反動や、注意を引く雑音を抑え、なおかつ取り外し可能なサイレンサーが付いている。 黒と青で和風模様と手裏剣をカスタムペイント。\\n\\n<i>攻撃を仕掛けるときこそ慎重に</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -152995,14 +152995,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Dead Hand コレクション",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Dead Hand ターミナル（未使用）",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
