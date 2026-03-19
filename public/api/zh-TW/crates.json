@@ -151794,7 +151794,7 @@
   "contains": [
    {
     "id": "skin-526e890d5739",
-    "name": "M249 | Bock Blocks",
+    "name": "M249 | 組塊積木",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -151805,7 +151805,7 @@
    },
    {
     "id": "skin-ca4c3950bda2",
-    "name": "M4A4 | Zubastick",
+    "name": "M4A4 | 尖牙利齒",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -151816,7 +151816,7 @@
    },
    {
     "id": "skin-40743fbc40a8",
-    "name": "UMP-45 | Fragment",
+    "name": "UMP-45 | 弒片",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -151827,7 +151827,7 @@
    },
    {
     "id": "skin-39ceb900b437",
-    "name": "Sawed-Off | Fusion",
+    "name": "Sawed-Off | 融合",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -151838,7 +151838,7 @@
    },
    {
     "id": "skin-19e064301c88",
-    "name": "Five-SeveN | Dark Polymer",
+    "name": "Five-SeveN | 暗黑聚合",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -151849,7 +151849,7 @@
    },
    {
     "id": "skin-12f8829b002d",
-    "name": "USP-S | Silent Shot",
+    "name": "USP-S | 寂靜一擊",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "軍規級",
@@ -151871,7 +151871,7 @@
    },
    {
     "id": "skin-2bcac1c42296",
-    "name": "Desert Eagle | Firebreathing",
+    "name": "Desert Eagle | 火之呼吸",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -151882,7 +151882,7 @@
    },
    {
     "id": "skin-62ecfa87b86d",
-    "name": "M4A1-S | Electrum",
+    "name": "M4A1-S | 翠珀金",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -151893,7 +151893,7 @@
    },
    {
     "id": "skin-55d44f236355",
-    "name": "MP7 | Amberline",
+    "name": "MP7 | 琥珀線",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -151904,7 +151904,7 @@
    },
    {
     "id": "skin-8571b4f29f98",
-    "name": "Galil AR | Galigator",
+    "name": "Galil AR | 加利鱷",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "受管制",
@@ -151926,7 +151926,7 @@
    },
    {
     "id": "skin-f64cdaac0b90",
-    "name": "AK-47 | Crane Flight",
+    "name": "AK-47 | 鶴翔",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "機密",
@@ -151937,7 +151937,7 @@
    },
    {
     "id": "skin-2f5828f37817",
-    "name": "P250 | Kintsugi",
+    "name": "P250 | 金繼",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "機密",
@@ -151948,7 +151948,7 @@
    },
    {
     "id": "skin-612576d81a84",
-    "name": "P90 | Deathgaze",
+    "name": "P90 | 死亡凝視",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "機密",
@@ -151959,7 +151959,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "AWP | Queen's Gambit",
+    "name": "AWP | 后翼棄兵",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "隱蔽",

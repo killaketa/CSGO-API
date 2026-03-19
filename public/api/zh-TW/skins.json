@@ -6647,8 +6647,8 @@
  },
  {
   "id": "skin-f64cdaac0b90",
-  "name": "AK-47 | Crane Flight",
-  "description": "威力強大且可靠，身為世界上最受青睞的突擊步槍之一的 AK-47 在收放得當的點放射擊之下最能彰顯其致命性。 A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "name": "AK-47 | 鶴翔",
+  "description": "威力強大且可靠，身為世界上最受青睞的突擊步槍之一的 AK-47 在收放得當的點放射擊之下最能彰顯其致命性。 其在黑白色基底上手繪了一隻鶴和金色點綴。\\n\\n<i>紅月在後</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -6660,7 +6660,7 @@
   },
   "pattern": {
    "id": "ak47_crane_flight",
-   "name": "Crane Flight"
+   "name": "鶴翔"
   },
   "min_float": 0,
   "max_float": 1,
@@ -15152,7 +15152,7 @@
  },
  {
   "id": "skin-66197377b028",
-  "name": "AWP | Queen's Gambit",
+  "name": "AWP | 后翼棄兵",
   "description": "高風險高報酬的 AWP 因為它的招牌槍聲以及秉持的一槍斃命政策而落得惡名昭彰，但也因此大名鼎鼎。 It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
   "weapon": {
    "id": "weapon_awp",
@@ -15165,7 +15165,7 @@
   },
   "pattern": {
    "id": "awp_queens_gambit",
-   "name": "Queen's Gambit"
+   "name": "后翼棄兵"
   },
   "min_float": 0,
   "max_float": 1,
@@ -21488,7 +21488,7 @@
  {
   "id": "skin-fb5805d13a5e",
   "name": "PP-Bizon | RMX",
-  "description": "Bizon 衝鋒槍的傷害雖小卻具有能夠容納大量彈藥和迅速更換的彈鼓設計。 It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "description": "Bizon 衝鋒槍的傷害雖小卻具有能夠容納大量彈藥和迅速更換的彈鼓設計。 其以紫色的漸層和紅白設計客製化塗裝。\\n\\n<i>輕身、迅捷、危險……理論上</i>",
   "weapon": {
    "id": "weapon_bizon",
    "weapon_id": 26,
@@ -28872,7 +28872,7 @@
  },
  {
   "id": "skin-2bcac1c42296",
-  "name": "Desert Eagle | Firebreathing",
+  "name": "Desert Eagle | 火之呼吸",
   "description": "身為經典款手槍的沙漠之鷹有著不失它定價尊嚴的高破壞力，雖然駕馭不易卻在遠距準確度這方面有著令人咋舌的出色表現。 It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
   "weapon": {
    "id": "weapon_deagle",
@@ -28885,7 +28885,7 @@
   },
   "pattern": {
    "id": "deagle_firebreathing",
-   "name": "Firebreathing"
+   "name": "火之呼吸"
   },
   "min_float": 0,
   "max_float": 1,
@@ -37954,8 +37954,8 @@
  },
  {
   "id": "skin-19e064301c88",
-  "name": "Five-SeveN | Dark Polymer",
-  "description": "精準且具備穿甲能力，威力偏低的 Five-seveN 雖然得費好一會工夫才能撂倒敵人卻有著連續擊中目標所需的 20 發的高容量彈匣還有低後座力來供它好好表現。 This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "name": "Five-SeveN | 暗黑聚合",
+  "description": "精準且具備穿甲能力，威力偏低的 Five-seveN 雖然得費好一會工夫才能撂倒敵人卻有著連續擊中目標所需的 20 發的高容量彈匣還有低後座力來供它好好表現。 此客製化塗裝使武器看起來像是以透明的紫色聚合物製成。\\n\\n<i>包裹在紫色糖衣中</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -37967,7 +37967,7 @@
   },
   "pattern": {
    "id": "fiveseven_polymer_dark",
-   "name": "Dark Polymer"
+   "name": "暗黑聚合"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43143,7 +43143,7 @@
  },
  {
   "id": "skin-8571b4f29f98",
-  "name": "Galil AR | Galigator",
+  "name": "Galil AR | 加利鱷",
   "description": "在恐怖份子限定的突擊步槍之中 Galil AR 是款耐用且也不會那麼昂貴的選擇。 An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
   "weapon": {
    "id": "weapon_galilar",
@@ -43156,7 +43156,7 @@
   },
   "pattern": {
    "id": "galil_galigator",
-   "name": "Galigator"
+   "name": "加利鱷"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90235,8 +90235,8 @@
  },
  {
   "id": "skin-526e890d5739",
-  "name": "M249 | Bock Blocks",
-  "description": "對於那些願意犧牲射速換取較高的準確度還有大彈鼓所帶來的高續航力的玩家來說 M249  將會是款強而有力且泛用的完美選擇。 It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "name": "M249 | 組塊積木",
+  "description": "對於那些願意犧牲射速換取較高的準確度還有大彈鼓所帶來的高續航力的玩家來說 M249  將會是款強而有力且泛用的完美選擇。 其以紫色幾何圖形的圖案設計客製化塗裝。\\n\\n<i>都堆疊起來吧</i>",
   "weapon": {
    "id": "weapon_m249",
    "weapon_id": 14,
@@ -90248,7 +90248,7 @@
   },
   "pattern": {
    "id": "m249_blocks_purple",
-   "name": "Bock Blocks"
+   "name": "組塊積木"
   },
   "min_float": 0,
   "max_float": 1,
@@ -94266,7 +94266,7 @@
  },
  {
   "id": "skin-ca4c3950bda2",
-  "name": "M4A4 | Zubastick",
+  "name": "M4A4 | 尖牙利齒",
   "description": "M4A4 是反恐小組陣營中全自動突擊步槍的不二選擇，比照對手陣營的 AK-47 來說更為準確不過殺傷力較小。 Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
   "weapon": {
    "id": "weapon_m4a1",
@@ -94279,7 +94279,7 @@
   },
   "pattern": {
    "id": "m4a4_zubastick_bw",
-   "name": "Zubastick"
+   "name": "尖牙利齒"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97365,7 +97365,7 @@
  },
  {
   "id": "skin-62ecfa87b86d",
-  "name": "M4A1-S | Electrum",
+  "name": "M4A1-S | 翠珀金",
   "description": "比起沒消音器的原版彈匣容量更小。消音版的 M4A1 槍聲更為小聲，並擁有較小的後座力與加強的精準度。 It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
@@ -97378,7 +97378,7 @@
   },
   "pattern": {
    "id": "m4a1s_electrum",
-   "name": "Electrum"
+   "name": "翠珀金"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109583,8 +109583,8 @@
  },
  {
   "id": "skin-55d44f236355",
-  "name": "MP7 | Amberline",
-  "description": "出自德國工藝的 MP7 衝鋒槍雖然多才多藝是款用於近距離激烈戰鬥的完美選擇但卻不怎便宜。 It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "name": "MP7 | 琥珀線",
+  "description": "出自德國工藝的 MP7 衝鋒槍雖然多才多藝是款用於近距離激烈戰鬥的完美選擇但卻不怎便宜。 其以斜噴的方式噴上橙白間條。\\n\\n<i>掌控的品牌</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -109596,7 +109596,7 @@
   },
   "pattern": {
    "id": "mp7_amberline",
-   "name": "Amberline"
+   "name": "琥珀線"
   },
   "min_float": 0,
   "max_float": 1,
@@ -123188,8 +123188,8 @@
  },
  {
   "id": "skin-2f5828f37817",
-  "name": "P250 | Kintsugi",
-  "description": "具有低後座力還有高射速， P250 用於對付身穿護甲的對手時是款的價格宜人的選擇。 A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "name": "P250 | 金繼",
+  "description": "具有低後座力還有高射速， P250 用於對付身穿護甲的對手時是款的價格宜人的選擇。 其以在象牙色基底上繪有一隻鮮豔的橙色飛鳥和金色點綴客製化塗裝。\\n\\n<i>如同那些精美的晚餐盤，這把武器僅用於特殊場合</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123201,7 +123201,7 @@
   },
   "pattern": {
    "id": "p250_kintsugi",
-   "name": "Kintsugi"
+   "name": "金繼"
   },
   "min_float": 0,
   "max_float": 1,
@@ -127157,8 +127157,8 @@
  },
  {
   "id": "skin-612576d81a84",
-  "name": "P90 | Deathgaze",
-  "description": "因為其獨特的犢牛式設計，P90 難以與其它槍枝混淆，同時具備高彈匣容量和低後座力讓它成為一邊移動一邊開火的優秀選擇。 It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "name": "P90 | 死亡凝視",
+  "description": "因為其獨特的犢牛式設計，P90 難以與其它槍枝混淆，同時具備高彈匣容量和低後座力讓它成為一邊移動一邊開火的優秀選擇。 其以在卡拉拉大理石紋基底上印有塗鴉風格的梅杜莎客製化塗裝。\\n\\n<i>別祭拜建基於欺騙的偶像</i>",
   "weapon": {
    "id": "weapon_p90",
    "weapon_id": 19,
@@ -127170,7 +127170,7 @@
   },
   "pattern": {
    "id": "p90_deathgaze",
-   "name": "Deathgaze"
+   "name": "死亡凝視"
   },
   "min_float": 0,
   "max_float": 1,
@@ -132647,7 +132647,7 @@
  },
  {
   "id": "skin-39ceb900b437",
-  "name": "Sawed-Off | Fusion",
+  "name": "Sawed-Off | 融合",
   "description": "這款相當典型的裁短式霰彈槍能在近距離造成強烈的傷害，但基於準度不佳、飄散程度大和射速偏慢的緣故使用時最好還是謹慎出手為妙。 It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
   "weapon": {
    "id": "weapon_sawedoff",
@@ -132660,7 +132660,7 @@
   },
   "pattern": {
    "id": "sawedoff_fusion",
-   "name": "Fusion"
+   "name": "融合"
   },
   "min_float": 0,
   "max_float": 1,
@@ -149470,8 +149470,8 @@
  },
  {
   "id": "skin-40743fbc40a8",
-  "name": "UMP-45 | Fragment",
-  "description": "UMP45 是款在衝鋒槍家族中飽受冷落的中庸選擇，若非因為彈匣容量這個唯一缺點的話不然還挺全能的。 It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "name": "UMP-45 | 弒片",
+  "description": "UMP45 是款在衝鋒槍家族中飽受冷落的中庸選擇，若非因為彈匣容量這個唯一缺點的話不然還挺全能的。 其以銀色、黑色和紅色設計客製化塗裝。\\n\\n<i>去殺敵了</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -149483,7 +149483,7 @@
   },
   "pattern": {
    "id": "ump_fragment",
-   "name": "Fragment"
+   "name": "弒片"
   },
   "min_float": 0,
   "max_float": 1,
@@ -152945,8 +152945,8 @@
  },
  {
   "id": "skin-12f8829b002d",
-  "name": "USP-S | Silent Shot",
-  "description": "從《絕對武力：次世代》深受玩家喜愛並轉移過來的消音版 USP 手槍。有著能隨時拆裝的消音器，給予較低的後座力並降低開火的音量。 It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "name": "USP-S | 寂靜一擊",
+  "description": "從《絕對武力：次世代》深受玩家喜愛並轉移過來的消音版 USP 手槍。有著能隨時拆裝的消音器，給予較低的後座力並降低開火的音量。 其以藍黑色幾何圖樣和手裏劍客製化塗裝。\\n\\n<i>在突擊進攻時練習謹慎行事</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -152958,7 +152958,7 @@
   },
   "pattern": {
    "id": "usps_silent_boy",
-   "name": "Silent Shot"
+   "name": "寂靜一擊"
   },
   "min_float": 0,
   "max_float": 1,

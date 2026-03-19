@@ -151781,7 +151781,7 @@
  },
  {
   "id": "crate-5181",
-  "name": "Sealed Dead Hand Terminal",
+  "name": "Terminal Mano de la Muerte precintado",
   "description": null,
   "def_index": "5181",
   "type": null,
@@ -151805,7 +151805,7 @@
    },
    {
     "id": "skin-ca4c3950bda2",
-    "name": "M4A4 | Zubastick",
+    "name": "M4A4 | Dentado",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -151959,7 +151959,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "AWP | Queen's Gambit",
+    "name": "AWP | Gambito de dama",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "de aspecto encubierto",
@@ -151970,7 +151970,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Glock-18 | Fully Tuned",
+    "name": "Glock-18 | Modificación total",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "de aspecto encubierto",

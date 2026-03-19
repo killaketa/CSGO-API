@@ -16055,11 +16055,11 @@
  },
  {
   "id": "collection-set-community-37",
-  "name": "The Dead Hand Collection",
+  "name": "Colección Mano de la Muerte",
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Mano de la Muerte precintado",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -16077,7 +16077,7 @@
    },
    {
     "id": "skin-ca4c3950bda2",
-    "name": "M4A4 | Zubastick",
+    "name": "M4A4 | Dentado",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "de grado militar",
@@ -16231,7 +16231,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "AWP | Queen's Gambit",
+    "name": "AWP | Gambito de dama",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "de aspecto encubierto",
@@ -16242,7 +16242,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Glock-18 | Fully Tuned",
+    "name": "Glock-18 | Modificación total",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "de aspecto encubierto",
