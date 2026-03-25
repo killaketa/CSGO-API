@@ -1769,8 +1769,8 @@
  },
  {
   "id": "skin-b8f492474850",
-  "name": "★ Шофьорски ръкавици | Brocade Crane",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Брокатен жерав",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Brocade Crane</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1782,7 +1782,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_crane_red",
-   "name": "Brocade Crane"
+   "name": "Брокатен жерав"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1823,15 +1823,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvw_x5s-BtShawhxwptgKXn4vGLSLANkI-XMN2Qu4OsEG6lYK2M-OwtgPf2IMRzXio3yMY7yhptbxRAKIkq_bVhhaBb-OYO4AFQA",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-d9b9add3d4ae",
-  "name": "★ Шофьорски ръкавици | Brocade Flowers",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Брокатни цветя",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Brocade Flowers</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1843,7 +1843,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_flower_red",
-   "name": "Brocade Flowers"
+   "name": "Брокатни цветя"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1884,15 +1884,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvw_x5s-BtSha1mRIwti-6iIr9HifOOV5kFJJ5TeMK5xTsltSyM-m07wLW2Y4Uy32ohiJKuy9r4L1UWKAj-qGF3gzfcepq2gO2jDs",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-f9ff211df27d",
-  "name": "★ Шофьорски ръкавици | Dragon Fists",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Драконови юмруци",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Dragon Fists</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1904,7 +1904,7 @@
   },
   "pattern": {
    "id": "glove_driver_dragon_scale_red",
-   "name": "Dragon Fists"
+   "name": "Драконови юмруци"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1945,15 +1945,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvxfx3t-5ncDqwlBEijC-AnrD1KCzPKhgkCZdwTeIL4ES5wdXjPrm251Pdi98QzST3jy0d6nxp4e5QAKsk_q3RkUifZohUdPsK",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-2d7a4c354277",
-  "name": "★ Шофьорски ръкавици | Garden",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Градина",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Garden</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1965,7 +1965,7 @@
   },
   "pattern": {
    "id": "glove_driver_embroidered_flowers_teal",
-   "name": "Garden"
+   "name": "Градина"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2006,15 +2006,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3WvxON0ou5gSyyhkBkYtTGKjYrrMhTTO1d8Zc4pEr9OrES-w9exZuzrsgyLi4lEzij2in9KvHpj6u9XU6J2_aGDjwzCY709t8YdZKHwRXCqB8U",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-25977544c37d",
-  "name": "★ Шофьорски ръкавици | Hand Sweaters",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Ръчни пуловери",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Hand Sweaters</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2026,7 +2026,7 @@
   },
   "pattern": {
    "id": "glove_driver_knit_argyle_green",
-   "name": "Hand Sweaters"
+   "name": "Ръчни пуловери"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2067,15 +2067,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3WvyuB_pN5oXS6qmRgYtC-An4HGLSLANkI-CZJzROEM4xa7lYbgM7i07lOP3okXmCn4iypM7idt4udXU6p0rqHS3haBb-PCGCVNWw",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-c79f644ef9e1",
-  "name": "★ Шофьорски ръкавици | Plum Quill",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Тъмновиолетово перо",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Plum Quill</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2087,7 +2087,7 @@
   },
   "pattern": {
    "id": "glove_driver_ostrich_purple",
-   "name": "Plum Quill"
+   "name": "Тъмновиолетово перо"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2128,15 +2128,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvzv1iouhqRxajgA83vzi6lob-KT-JawEjXMZyQuQMs0Xpl4fvMrvn4FOI2N5Dnn78jnxI5yZj5-tXWfEs8rqX0V_DSgKUxA",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-f31ff8147493",
-  "name": "★ Шофьорски ръкавици | Seigaiha",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Синьо море и вълни",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Seigaiha</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2148,7 +2148,7 @@
   },
   "pattern": {
    "id": "glove_driver_scallop_metallic_blue",
-   "name": "Seigaiha"
+   "name": "Синьо море и вълни"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2189,15 +2189,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wv0u13vO1mXxa-kAkmvzGMmbD7LT7CAVp5Xco0W-dZuhe6wNDuP-q05g2NiYlFmSn5iS1N7yxj4LxUWPJx-6yCiFqUNOIjoc5UtEcI9GU",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-b1dcd2af898f",
-  "name": "★ Шофьорски ръкавици | Wave Chaser",
-  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане.",
+  "name": "★ Шофьорски ръкавици | Вълноломен преследвач",
+  "description": "<b><font color='#F2A93E'>Driver Gloves</font></b>\\n \\nТези шофьорски ръкавици предлагат защита от стихийните елементи, докато същевременно с това все още предоставят осезаемо усещане. <b><font color='#F2A93E'>Wave Chaser</font></b>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2209,7 +2209,7 @@
   },
   "pattern": {
    "id": "glove_driver_silk_dragon_white",
-   "name": "Wave Chaser"
+   "name": "Вълноломен преследвач"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2250,7 +2250,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wv0ud6u95tXSi0mhMYpDWMjorGLSLANkI-ApsmQrFbtkPux4bgMuvg7gzWjI0Xnyz-23lI6i5s4bpWUqMl-6PQ2xaBb-Mdlpgj5g",
   "original": {
    "name": "slick_gloves"
   }
@@ -3141,8 +3141,8 @@
  },
  {
   "id": "skin-7b77498783da",
-  "name": "★ Специализирани ръкавици | Lime Polycam",
-  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения.",
+  "name": "★ Специализирани ръкавици | Жълто-зелен полиатомен камуфлаж",
+  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения. <b><font color='#F2A93E'>Lime Polycam</font></b>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3154,7 +3154,7 @@
   },
   "pattern": {
    "id": "glove_specialist_abstract_green",
-   "name": "Lime Polycam"
+   "name": "Жълто-зелен полиатомен камуфлаж"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3202,8 +3202,8 @@
  },
  {
   "id": "skin-1f8f2cadf55b",
-  "name": "★ Специализирани ръкавици | Cloud Chaser",
-  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения.",
+  "name": "★ Специализирани ръкавици | Облачен преследвач",
+  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения. <b><font color='#F2A93E'>Cloud Chaser</font></b>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3215,7 +3215,7 @@
   },
   "pattern": {
    "id": "glove_specialist_dragon_blue",
-   "name": "Cloud Chaser"
+   "name": "Облачен преследвач"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3263,7 +3263,7 @@
  },
  {
   "id": "skin-6d087aad2621",
-  "name": "★ Специализирани ръкавици | Blackbook",
+  "name": "★ Специализирани ръкавици | Скицник",
   "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения.",
   "weapon": {
    "id": "specialist_gloves",
@@ -3276,7 +3276,7 @@
   },
   "pattern": {
    "id": "glove_specialist_graffiti_black",
-   "name": "Blackbook"
+   "name": "Скицник"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3324,8 +3324,8 @@
  },
  {
   "id": "skin-cc0d5dff95fc",
-  "name": "★ Специализирани ръкавици | Chocolate Chesterfield",
-  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения.",
+  "name": "★ Специализирани ръкавици | Шоколадово канапе",
+  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения. <b><font color='#F2A93E'>Chocolate Chesterfield</font></b>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3337,7 +3337,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_black",
-   "name": "Chocolate Chesterfield"
+   "name": "Шоколадово канапе"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3378,15 +3378,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhAguvymAnrD7LSrENWl8U8UoAfkNu0Ttx4CxP-zr4wDbjN4XmX79j3xM7SdisbkLBPB0q6LWiwnHM7Zs_9Bdc2KEwswI",
   "original": {
    "name": "specialist_gloves"
   }
  },
  {
   "id": "skin-da1393aefb9c",
-  "name": "★ Специализирани ръкавици | Pillow Punchers",
-  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения.",
+  "name": "★ Специализирани ръкавици | Възглавници за бокс",
+  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения. <b><font color='#F2A93E'>Pillow Punchers</font></b>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3398,7 +3398,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_white",
-   "name": "Pillow Punchers"
+   "name": "Възглавници за бокс"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3439,15 +3439,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhAguvymAnrDuKSLTO2l8U8UoAfkK5BKxkNyyZu7r4VGP3Y8UzSX_iC4av3trtbtWV_Vxq6SEh1mVN7c9_9Bdc6ulT-fJ",
   "original": {
    "name": "specialist_gloves"
   }
  },
  {
   "id": "skin-aba169232063",
-  "name": "★ Специализирани ръкавици | Sunburst",
-  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения.",
+  "name": "★ Специализирани ръкавици | Слънчев проблясък",
+  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения. <b><font color='#F2A93E'>Sunburst</font></b>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3459,7 +3459,7 @@
   },
   "pattern": {
    "id": "glove_specialist_sunburst_red",
-   "name": "Sunburst"
+   "name": "Слънчев проблясък"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3500,15 +3500,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhggpsSiXiZvGMy7DAVp5Xco0W-VesRKwxtLvMbm07gLbiI1GmX33hywd7Hk45ewEAPIiqfXW2Q7FMLIjoc5U0NHpGGE",
   "original": {
    "name": "specialist_gloves"
   }
  },
  {
   "id": "skin-6977cd7028dd",
-  "name": "★ Специализирани ръкавици | Big Swell",
-  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения.",
+  "name": "★ Специализирани ръкавици | Голямо вълнение",
+  "description": "<b><font color='#F2A93E'>Specialist Gloves</font></b>\\n \\nИздръжливи, дишащи и стилни. Тези ръкавици са проектирани така, че да носят на (както и да нанасят) поражения. <b><font color='#F2A93E'>Big Swell</font></b>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3520,7 +3520,7 @@
   },
   "pattern": {
    "id": "glove_specialist_wave_blue",
-   "name": "Big Swell"
+   "name": "Голямо вълнение"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3561,7 +3561,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MghwxtgKHlpr8HifOOV5kFJJyFOVZuhC8l9XjNL-3tgHcg41HzHr4hntBuntpse0LUvZwr_bX3QjfcepqIIhMOUI",
   "original": {
    "name": "specialist_gloves"
   }
@@ -4452,8 +4452,8 @@
  },
  {
   "id": "skin-0f6327fef452",
-  "name": "★ Спортни ръкавици | Violet Beadwork",
-  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни.",
+  "name": "★ Спортни ръкавици | Виолетов наниз от мъниста",
+  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни. <b><font color='#F2A93E'>Violet Beadwork</font></b>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4465,7 +4465,7 @@
   },
   "pattern": {
    "id": "glove_sport_beadwork_diamonds_purple",
-   "name": "Violet Beadwork"
+   "name": "Виолетов наниз от мъниста"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4513,8 +4513,8 @@
  },
  {
   "id": "skin-c747da872a60",
-  "name": "★ Спортни ръкавици | Frosty",
-  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни.",
+  "name": "★ Спортни ръкавици | Мразовито",
+  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни. <b><font color='#F2A93E'>Frosty</font></b>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4526,7 +4526,7 @@
   },
   "pattern": {
    "id": "glove_sport_camo_winter",
-   "name": "Frosty"
+   "name": "Мразовито"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4567,7 +4567,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_camo_winter_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOvwu97v95-RienkA8YvzSCkpu3dXqfbA5zW5N0F-dcu0K8ldDnMuPk4wHdjN9EniWthn4av31v4eoHWL1lpPOyBkNpPQ",
   "original": {
    "name": "sporty_gloves"
   }
@@ -4628,15 +4628,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_flames_orange_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOvx-J3veR6cCahlBMgtgKJk4jxNWWXblAgDJUiTeJZtBHpktDuY7m2sQPf2YNAxXn5iysf6Cc_67oGA6Ah5OSJ2AmILwG6",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-1cd6adc6787e",
-  "name": "★ Спортни ръкавици | Creme Pinstripe",
-  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни.",
+  "name": "★ Спортни ръкавици | Кремаво зелени ивици",
+  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни. <b><font color='#F2A93E'>Creme Pinstripe</font></b>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4648,7 +4648,7 @@
   },
   "pattern": {
    "id": "glove_sport_pinstripe_black",
-   "name": "Creme Pinstripe"
+   "name": "Кремаво зелени ивици"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4689,15 +4689,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv0ed4o_V7Rjm2qh8rsj6OpYPwJiPTcAdzW5V2E-4IsBnswNHuZbznsQfXg4NCny_4hnhOvS04suoDVvZx86zJz1aWnYsnB-o",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-01ecc031f210",
-  "name": "★ Спортни ръкавици | Red Racer",
-  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни.",
+  "name": "★ Спортни ръкавици | Червен състезател",
+  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни. <b><font color='#F2A93E'>Red Racer</font></b>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4709,7 +4709,7 @@
   },
   "pattern": {
    "id": "glove_sport_racer_red",
-   "name": "Red Racer"
+   "name": "Червен състезател"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4750,15 +4750,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_racer_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv0-91tfNWXSy3qhEutDWR1I77dC7GbQ4kWZNwEOJY5xLtwYHuN7yz7lPe2YgTniz2jn5Nv3lj5O0cEf1yHxfMKhM",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-635fbb080d7c",
-  "name": "★ Спортни ръкавици | Ultra Violent",
-  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни.",
+  "name": "★ Спортни ръкавици | Ултра насилствено",
+  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни. <b><font color='#F2A93E'>Ultra Violent</font></b>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4770,7 +4770,7 @@
   },
   "pattern": {
    "id": "glove_sport_tech_gradient_bright",
-   "name": "Ultra Violent"
+   "name": "Ултра насилствено"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4811,15 +4811,15 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv1et1uN5uXSi3nBgppwKHiIb-KT_4Ml93UtZuTOcLtUW8lNDvZL634FfYi4pCyiX5iXka6Htr4uhQVqt3_vfRiAzDZap9v8fuC2Vr0A",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-9ff0ea2301d4",
-  "name": "★ Спортни ръкавици | Occult",
-  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни.",
+  "name": "★ Спортни ръкавици | Окултно",
+  "description": "<b><font color='#F2A93E'>Sport Gloves</font></b>\\n \\nСинтетичните тъкани правят тези атлетични ръкавици издръжливи и привлекателни. <b><font color='#F2A93E'>Occult</font></b>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4831,7 +4831,7 @@
   },
   "pattern": {
    "id": "glove_sport_velvet_red",
-   "name": "Occult"
+   "name": "Окултно"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4872,7 +4872,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_velvet_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv1-t6puR9cDu2kSIrujqNjsGody2XPQVzWZslEe5euxS_lYC0Yu7l4wLfj99MmCv4jXka6Slp6-4ET-N7rUuG7GIq",
   "original": {
    "name": "sporty_gloves"
   }
@@ -6647,8 +6647,8 @@
  },
  {
   "id": "skin-f64cdaac0b90",
-  "name": "AK-47 | Crane Flight",
-  "description": "Мощен и надежден, AK-47 е един от най-популярните автомати в света. Той е най-смъртоносен с кратки, контролирани откоси при стрелба. A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "name": "AK-47 | Полет на жерав",
+  "description": "Мощен и надежден, AK-47 е един от най-популярните автомати в света. Той е най-смъртоносен с кратки, контролирани откоси при стрелба. <b><font color='#F2A93E'>Space Cat</font></b>\\n \\nЖерав и златисти акценти са ръчно изрисувани върху черно-бяла основа.\\n\\n<i>Предхождайки кървавата луна</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -6660,7 +6660,7 @@
   },
   "pattern": {
    "id": "ak47_crane_flight",
-   "name": "Crane Flight"
+   "name": "Полет на жерав"
   },
   "min_float": 0,
   "max_float": 1,
@@ -6697,14 +6697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -6713,7 +6713,7 @@
    "name": "Терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_crane_flight_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRa7ZsLvWsCGuZxuZij-1gSCGn20wksT7Xzo6ueX6VOgUmWZQiTO5btxDrldbmNru05QLfiN5EmHmsj3hXrnE8mi375M8",
   "original": {
    "name": "weapon_ak47"
   }
@@ -15152,8 +15152,8 @@
  },
  {
   "id": "skin-66197377b028",
-  "name": "AWP | Queen's Gambit",
-  "description": "Високорисково, но с голяма отплата, емблематичното AWP се разпознава по своята уникална слава, както и тенденцията му за един изстрел, едно убийство. It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+  "name": "AWP | Маньовърът на кралицата",
+  "description": "Високорисково, но с голяма отплата, емблематичното AWP се разпознава по своята уникална слава, както и тенденцията му за един изстрел, едно убийство. <b><font color='#F2A93E'>Queen's Gambit</font></b>\\n \\nБоядисано персонализирано, използвайки кралско синьо и златисто. Преди края на приклада е ръчно изрисувана кралица.\\n\\n<i>Всеки изстрел е кралски указ за мощ и прецизност</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -15165,7 +15165,7 @@
   },
   "pattern": {
    "id": "awp_queens_gambit",
-   "name": "Queen's Gambit"
+   "name": "Маньовърът на кралицата"
   },
   "min_float": 0,
   "max_float": 1,
@@ -15202,14 +15202,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -15218,7 +15218,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_queens_gambit_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
   "original": {
    "name": "weapon_awp"
   }
@@ -21487,8 +21487,8 @@
  },
  {
   "id": "skin-fb5805d13a5e",
-  "name": "PP-Bizon | RMX",
-  "description": "SMG Bizon нанася малко щети, но предлага уникално проектирани цилиндрични пълнители с голям капацитет, които се презареждат бързо. It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "name": "PP-Bizon | Ремикс",
+  "description": "SMG Bizon нанася малко щети, но предлага уникално проектирани цилиндрични пълнители с голям капацитет, които се презареждат бързо. <b><font color='#F2A93E'>RMX</font></b>\\n \\nБоядисано с персонализиран градиент от лилаво и червено-бял цветови дизайн.\\n\\n<i>Светлина, бързина и опасност… Поне на теория</i>",
   "weapon": {
    "id": "weapon_bizon",
    "weapon_id": 26,
@@ -21500,7 +21500,7 @@
   },
   "pattern": {
    "id": "bizon_rmx",
-   "name": "RMX"
+   "name": "Ремикс"
   },
   "min_float": 0,
   "max_float": 1,
@@ -21537,14 +21537,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -21553,7 +21553,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_rmx_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
   "original": {
    "name": "weapon_bizon"
   }
@@ -28872,8 +28872,8 @@
  },
  {
   "id": "skin-2bcac1c42296",
-  "name": "Desert Eagle | Firebreathing",
-  "description": "Толкова скъп, колкото е и мощен, Desert Eagle е пистолет с уникално излъчване, който се овладява трудно, но е изненадващо точен на далечно разстояние. It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "name": "Desert Eagle | Огнедишащ",
+  "description": "Толкова скъп, колкото е и мощен, Desert Eagle е пистолет с уникално излъчване, който се овладява трудно, но е изненадващо точен на далечно разстояние. <b><font color='#F2A93E'>Firebreathing</font></b>\\n \\nБоядисано с персонализирани лилаво-сини пламъци, използвайки перлено гланцова боя.\\n\\n<i>Съдържа изключителни качества и умения</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -28885,7 +28885,7 @@
   },
   "pattern": {
    "id": "deagle_firebreathing",
-   "name": "Firebreathing"
+   "name": "Огнедишащ"
   },
   "min_float": 0,
   "max_float": 1,
@@ -28922,14 +28922,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -28938,7 +28938,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_firebreathing_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_aaHGKS0-t3pOlgQS6MmRQguynLn9ircSiTPFUgCJAkQbELsxXtktDkMurk4lTZ39hEyn_-3HsbvXxj4fFCD_RcNNN-xQ",
   "original": {
    "name": "weapon_deagle"
   }
@@ -37954,8 +37954,8 @@
  },
  {
   "id": "skin-19e064301c88",
-  "name": "Five-SeveN | Dark Polymer",
-  "description": "Изключително точен и бронебоен, скъпият Five-Seven се зарежда бавно, но компенсира щедро с 20 патрона в пълнителя и умерен откат. This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "name": "Five-SeveN | Мрачен полимер",
+  "description": "Изключително точен и бронебоен, скъпият Five-Seven се зарежда бавно, но компенсира щедро с 20 патрона в пълнителя и умерен откат. <b><font color='#F2A93E'>Dark Polymer</font></b>\\n \\nТова персонализирано боядисване кара оръжието да изглежда така, сякаш е направено от прозрачен лилав полимер.\\n\\n<i>Опакована в лилава сладка глазура</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -37967,7 +37967,7 @@
   },
   "pattern": {
    "id": "fiveseven_polymer_dark",
-   "name": "Dark Polymer"
+   "name": "Мрачен полимер"
   },
   "min_float": 0,
   "max_float": 1,
@@ -38004,14 +38004,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -38020,7 +38020,7 @@
    "name": "Контра терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_polymer_dark_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRbq17JeOWGGKe_v55vPhkSjuMkRw1uAKJk4jxNWWVaw9yAsF3R-cItkTqx9HiY-23tFeN3oNFyS_9jn4a5i5o5b0AB6B35OSJ2MsRWanJ",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -43143,8 +43143,8 @@
  },
  {
   "id": "skin-8571b4f29f98",
-  "name": "Galil AR | Galigator",
-  "description": "По-евтин вариант измежду ексклузивните автомати за терористите, Galil AR е функционално оръжие в битките при средно и дълго разстояние. An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
+  "name": "Galil AR | Галигатор",
+  "description": "По-евтин вариант измежду ексклузивните автомати за терористите, Galil AR е функционално оръжие в битките при средно и дълго разстояние. <b><font color='#F2A93E'>Galigator</font></b>\\n \\nБоядисано персонализирано с алигатор и токсични символи върху зелено-жълта основа.\\n\\n<i>ГРИЗ! ГРИЗ! ГРИЗ!</i>",
   "weapon": {
    "id": "weapon_galilar",
    "weapon_id": 13,
@@ -43156,7 +43156,7 @@
   },
   "pattern": {
    "id": "galil_galigator",
-   "name": "Galigator"
+   "name": "Галигатор"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43193,14 +43193,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -43209,7 +43209,7 @@
    "name": "Терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_galil_galigator_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PWvZK1hH_eSAm6XwPp5ot5lRi67gVN_42_VydytcX3BbQ8pCsB0ReMCtEG_lYLuNuji4AGPjt8Qynj4jXlI8G81tMQ6bFYi",
   "original": {
    "name": "weapon_galilar"
   }
@@ -47858,8 +47858,8 @@
  },
  {
   "id": "skin-ec359b168d17",
-  "name": "Glock-18 | Fully Tuned",
-  "description": "Glock 18 е функционален пистолет през първия кръг, който работи най-добре срещу опоненти без бронежилетки и е способен да изстрелва откоси от по три изстрела. It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "name": "Glock-18 | Напълно тунинговано",
+  "description": "Glock 18 е функционален пистолет през първия кръг, който работи най-добре срещу опоненти без бронежилетки и е способен да изстрелва откоси от по три изстрела. <b><font color='#F2A93E'>Fully Tuned</font></b>\\n \\nБоядисано с персонализирани неонови цветове и блестяща металическа багра.\\n\\n<i>Идва ми малко множко, но аз не съм целевата аудитория… — Буут, търговец на оръжия</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -47871,7 +47871,7 @@
   },
   "pattern": {
    "id": "glock_jdpeek",
-   "name": "Fully Tuned"
+   "name": "Напълно тунинговано"
   },
   "min_float": 0,
   "max_float": 1,
@@ -47908,14 +47908,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -47924,7 +47924,7 @@
    "name": "Терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_jdpeek_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tnJOCWC2yvzedxuPUnS3HqzR9152_UyNigeSqWa1BxW8ElRLJfshfpkNHuZO_n4ADd2IxBxDK-0H3ID5Y8zA",
   "original": {
    "name": "weapon_glock"
   }
@@ -90235,8 +90235,8 @@
  },
  {
   "id": "skin-526e890d5739",
-  "name": "M249 | Bock Blocks",
-  "description": "Лека картечница, уместна за открити пространства, M249 е идеалният избор за играчи, желаещи да заменят бавната скорост на стрелба с по-голяма точност и висок капацитет от муниции. It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "name": "M249 | Кудкудякaщи блокчета",
+  "description": "Лека картечница, уместна за открити пространства, M249 е идеалният избор за играчи, желаещи да заменят бавната скорост на стрелба с по-голяма точност и висок капацитет от муниции. <b><font color='#F2A93E'>Bock Blocks</font></b>\\n \\nБоядисано с персонализиран лилав графично геометричен дизайн.\\n\\n<i>Струпайте ги</i>",
   "weapon": {
    "id": "weapon_m249",
    "weapon_id": 14,
@@ -90248,7 +90248,7 @@
   },
   "pattern": {
    "id": "m249_blocks_purple",
-   "name": "Bock Blocks"
+   "name": "Кудкудякaщи блокчета"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90285,14 +90285,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -90301,7 +90301,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_m249_blocks_purple_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wi8Ju6uRaqhiI_uAMXeF0_56td5lRi67gVNw4juHnIr_JSmeOwQnXsd1RbZYtkTpkoDjY7nm5Vfci4NDxS__jyoY8G81tOB68LmM",
   "original": {
    "name": "weapon_m249"
   }
@@ -94266,8 +94266,8 @@
  },
  {
   "id": "skin-ca4c3950bda2",
-  "name": "M4A4 | Zubastick",
-  "description": "По-точна, но и нанасяща по-малко щети, отколкото съответстващия — AK-47, M4A4 е напълно авт. винтовка избирана от КТ. Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
+  "name": "M4A4 | Зъбчато",
+  "description": "По-точна, но и нанасяща по-малко щети, отколкото съответстващия — AK-47, M4A4 е напълно авт. винтовка избирана от КТ. <b><font color='#F2A93E'>Zubastick</font></b>\\n \\nТова M4A4 е ръчно изрисувано със зъби и оранжеви очи.\\n\\n<i>От около 1991</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -94279,7 +94279,7 @@
   },
   "pattern": {
    "id": "m4a4_zubastick_bw",
-   "name": "Zubastick"
+   "name": "Зъбчато"
   },
   "min_float": 0,
   "max_float": 1,
@@ -94316,14 +94316,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -94332,7 +94332,7 @@
    "name": "Контра терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_zubastick_bw_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRcrFvIeOHB2Sb_uxhj-1gSCGn208j5WqDw9ascn6VOlQoCJV0RbVb5xO5l4fgY-Pk5waMitpHzS79jiJXrnE8cY5TeGQ",
   "original": {
    "name": "weapon_m4a1"
   }
@@ -97365,8 +97365,8 @@
  },
  {
   "id": "skin-62ecfa87b86d",
-  "name": "M4A1-S | Electrum",
-  "description": "С по-малък пълнител от незаглушеното си съответствие, M4A1 със заглушител предоставя по-тихи изстрели с по-слаб откат и по-добра точност. It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "name": "M4A1-S | Кехлибар",
+  "description": "С по-малък пълнител от незаглушеното си съответствие, M4A1 със заглушител предоставя по-тихи изстрели с по-слаб откат и по-добра точност. <b><font color='#F2A93E'>Electrum</font></b>\\n \\nБоядисано с персонализирана основа в мраморнозелено и завършек от златисти и червени акценти.\\n\\n<i>Те не ти плащат достатъчно, за да пренасяш това, но аз ще го сторя — Валерия Дженър, революционерка</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -97378,7 +97378,7 @@
   },
   "pattern": {
    "id": "m4a1s_electrum",
-   "name": "Electrum"
+   "name": "Кехлибар"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97415,14 +97415,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -97431,7 +97431,7 @@
    "name": "Контра терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_electrum_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ut6teJ9XTy-qhEutDWR1Iz4cnjCag51DZQlEOIMtEa7k9TiNbmw51OP3tlBxCr8iCsY6C5t6uwcEf1y--utkZE",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -109583,8 +109583,8 @@
  },
  {
   "id": "skin-55d44f236355",
-  "name": "MP7 | Amberline",
-  "description": "Всестранен, но и скъп, произведеният в Германия автомат MP7 е перфектният избор за силно въздействие при битки на близко разстояние. It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "name": "MP7 | Кехлибарената линия",
+  "description": "Всестранен, но и скъп, произведеният в Германия автомат MP7 е перфектният избор за силно въздействие при битки на близко разстояние. <b><font color='#F2A93E'>Drought</font></b>\\n \\nБоядисано със спрей в диагонални оранжеви и бели ленти.\\n\\n<i>Марка подръка</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -109596,7 +109596,7 @@
   },
   "pattern": {
    "id": "mp7_amberline",
-   "name": "Amberline"
+   "name": "Кехлибарената линия"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109633,14 +109633,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -109649,7 +109649,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_amberline_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0POjaqF_LPmdC1icyOl-pK9rTCzlzBx14m-AyNupdXqfaQElXsN0QLICsxSxw4HjZuzm4gePjY5C02yg2Z3LgsMw",
   "original": {
    "name": "weapon_mp7"
   }
@@ -113287,8 +113287,8 @@
  },
  {
   "id": "skin-36e373c7de1c",
-  "name": "MP9 | Urban Sovereign",
-  "description": "Произведен в Швейцария, модерния автомат MP9 е ергономично полимерно оръжие предпочитано от частните охранителни фирми. It has been custom painted with an urban material design and finished with gold graffiti.\\n\\n<i>Kings don't hide behind walls, they paint them</i>",
+  "name": "MP9 | Градски суверен",
+  "description": "Произведен в Швейцария, модерния автомат MP9 е ергономично полимерно оръжие предпочитано от частните охранителни фирми. <b><font color='#F2A93E'>Urban Sovereign</font></b>\\n \\nБоядисано с персонализиран градски материален дизайн и завършек от златисти графити.\\n\\n<i>Кралете не се крият зад стени, а ги боядисват</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -113300,7 +113300,7 @@
   },
   "pattern": {
    "id": "mp9_urban_sovereign",
-   "name": "Urban Sovereign"
+   "name": "Градски суверен"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113337,14 +113337,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -113353,7 +113353,7 @@
    "name": "Контра терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_urban_sovereign_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0Oe8aqVjH-OcGGKCxOdxvt5lRi67gVMi4m6DmY2hcXLFPAMiA8NxQ-9cshK_m9yyYem04ACLg9hAzH6q239I8G81tD9Ib4M_",
   "original": {
    "name": "weapon_mp9"
   }
@@ -123188,8 +123188,8 @@
  },
  {
   "id": "skin-2f5828f37817",
-  "name": "P250 | Kintsugi",
-  "description": "Ниско откатно и скорострелно огнестрелно оръжие, P250 е сравнително евтин избор срещу опоненти с бронежилетки. A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "name": "P250 | Кинцуги",
+  "description": "Ниско откатно и скорострелно огнестрелно оръжие, P250 е сравнително евтин избор срещу опоненти с бронежилетки. <b><font color='#F2A93E'>Kintsugi</font></b>\\n \\nБоядисано с персонализирано художествено изображение на оранжева птица и златисти акценти върху основа оцветена в слонова кост.\\n\\n<i>Подобно на тези луксозни банкетни чинии, това оръжие се използва само при специални поводи</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123201,7 +123201,7 @@
   },
   "pattern": {
    "id": "p250_kintsugi",
-   "name": "Kintsugi"
+   "name": "Кинцуги"
   },
   "min_float": 0,
   "max_float": 1,
@@ -123238,14 +123238,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -123254,7 +123254,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_kintsugi_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
   "original": {
    "name": "weapon_p250"
   }
@@ -127157,8 +127157,8 @@
  },
  {
   "id": "skin-612576d81a84",
-  "name": "P90 | Deathgaze",
-  "description": "Лесно разпознаваем, заради уникалния си булпъп дизайн, P90 е страхотно оръжие, за стрелба в движение благодарение на своя пълнител с висок капацитет и слаб откат. It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "name": "P90 | Мъртвешки взор",
+  "description": "Лесно разпознаваем, заради уникалния си булпъп дизайн, P90 е страхотно оръжие, за стрелба в движение благодарение на своя пълнител с висок капацитет и слаб откат. <b><font color='#F2A92E'>Deathgaze</font></b>\\n \\nБоядисано персонализирано с Медуза в графитен стил върху основа от основа от карарски мрамор.\\n\\n<i>Не се прекланяйте пред идолите, издигнати връз основи от измама</i>",
   "weapon": {
    "id": "weapon_p90",
    "weapon_id": 19,
@@ -127170,7 +127170,7 @@
   },
   "pattern": {
    "id": "p90_deathgaze",
-   "name": "Deathgaze"
+   "name": "Мъртвешки взор"
   },
   "min_float": 0,
   "max_float": 1,
@@ -127207,14 +127207,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -127223,7 +127223,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_p90_deathgaze_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0ParabBlJ_GJC1icyOl-pK85GHy1kEh3627Tntn6dC-SOgFyXJR3RO8Jt0a7lIG1M-PksgLZjNoT02yg2XMB6aCz",
   "original": {
    "name": "weapon_p90"
   }
@@ -132647,8 +132647,8 @@
  },
  {
   "id": "skin-39ceb900b437",
-  "name": "Скъсена цев | Fusion",
-  "description": "Класическата пушка със скъсена цев нанася много тежки щети от близко разстояние, но с ниската си точност, широко разпръскване и нискоскоростна стрелба, ще е добре да убиете това, в което се целите. It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
+  "name": "Скъсена цев | Синтез",
+  "description": "Класическата пушка със скъсена цев нанася много тежки щети от близко разстояние, но с ниската си точност, широко разпръскване и нискоскоростна стрелба, ще е добре да убиете това, в което се целите. <b><font color='#F2A93E'>Fusion</font></b>\\n \\nБоядисано с персонализиран дизайн в черно и златисто. Допълнителни подробности се разкриват при различни светлинни условия.\\n\\n<i>Видял съм разни неща…</i>",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -132660,7 +132660,7 @@
   },
   "pattern": {
    "id": "sawedoff_fusion",
-   "name": "Fusion"
+   "name": "Синтез"
   },
   "min_float": 0,
   "max_float": 1,
@@ -132697,14 +132697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -132713,7 +132713,7 @@
    "name": "Терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_fusion_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29abNoJP-VCFiW1P1_v-9WQyC0nQlp4WiHyY79eHmXOw4mW5JwQ-Jc5hO7koXjML_jsgSK2oJHmyz82ilB7DErvbjU0C2wDw",
   "original": {
    "name": "weapon_sawedoff"
   }
@@ -149470,8 +149470,8 @@
  },
  {
   "id": "skin-40743fbc40a8",
-  "name": "UMP-45 | Fragment",
-  "description": "Криворазбраното средно дете от семейството автоматични оръжия, малкият пълнител за UMP45 е единственият недостатък на иначе универсалния автомат при близки разстояния. It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "name": "UMP-45 | Фрагмент",
+  "description": "Криворазбраното средно дете от семейството автоматични оръжия, малкият пълнител за UMP45 е единственият недостатък на иначе универсалния автомат при близки разстояния. <b><font color='#F2A93E'>Fragment</font></b>\\n \\nБоядисано с персонализиран сребрист, черен и червен дизайн.\\n\\n<i>Оти'ам за фрагове</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -149483,7 +149483,7 @@
   },
   "pattern": {
    "id": "ump_fragment",
-   "name": "Fragment"
+   "name": "Фрагмент"
   },
   "min_float": 0,
   "max_float": 1,
@@ -149520,14 +149520,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -149536,7 +149536,7 @@
    "name": "Двата отбора"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_ump_fragment_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1O4uKRbrZsJ_2WAHOvzedxuPUnGH3qwxtzsjzczN-odXqePQN0C5EiFrUK50G7lYXkP7jh71bXjdlEyDK-0H3tn7dQwA",
   "original": {
    "name": "weapon_ump45"
   }
@@ -152945,8 +152945,8 @@
  },
  {
   "id": "skin-12f8829b002d",
-  "name": "USP-S | Silent Shot",
-  "description": "Любим на Counter-Strike Source феновете, USP пистолетът с подвижен заглушител, придаващ по-слаб откат на изстрелите, като същевременно потиска шума, който би привлякъл внимание. It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "name": "USP-S | Безмълвен изстрел",
+  "description": "Любим на Counter-Strike Source феновете, USP пистолетът с подвижен заглушител, придаващ по-слаб откат на изстрелите, като същевременно потиска шума, който би привлякъл внимание. <b><font color='#F2A93E'>Silent Shot</font></b>\\n \\nБоядисано с персонализирани черно-сини геометрични символи и шурикени.\\n\\n<i>Упражнявайте дискретност, докато проявявате агресия</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -152958,7 +152958,7 @@
   },
   "pattern": {
    "id": "usps_silent_boy",
-   "name": "Silent Shot"
+   "name": "Безмълвен изстрел"
   },
   "min_float": 0,
   "max_float": 1,
@@ -152995,14 +152995,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Колекцията „Мъртвешка ръка“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Запечатан терминал „Мъртвата ръка“",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -153011,7 +153011,7 @@
    "name": "Контра терорист"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_silent_boy_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViDyOJzvvVWTSaqqhEutDWR1Nf8cn_CPAQmW8Z5Ee8P4UbuxILmMLu3tAXYj4hByyWsjCscvy89sOYcEf1yCvXTIoM",
   "original": {
    "name": "weapon_usp_silencer"
   }

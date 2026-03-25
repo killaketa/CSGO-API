@@ -1769,8 +1769,8 @@
  },
  {
   "id": "skin-b8f492474850",
-  "name": "Gants de pilote (★) | Brocade Crane",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "name": "Gants de pilote (★) | Brocart aviaire",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1782,7 +1782,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_crane_red",
-   "name": "Brocade Crane"
+   "name": "Brocart aviaire"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1823,15 +1823,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvw_x5s-BtShawhxwptgKXn4vGLSLANkI-XMN2Qu4OsEG6lYK2M-OwtgPf2IMRzXio3yMY7yhptbxRAKIkq_bVhhaBb-OYO4AFQA",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-d9b9add3d4ae",
-  "name": "Gants de pilote (★) | Brocade Flowers",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "name": "Gants de pilote (★) | Brocart fleuri",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1843,7 +1843,7 @@
   },
   "pattern": {
    "id": "glove_driver_brocade_flower_red",
-   "name": "Brocade Flowers"
+   "name": "Brocart fleuri"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1884,15 +1884,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvw_x5s-BtSha1mRIwti-6iIr9HifOOV5kFJJ5TeMK5xTsltSyM-m07wLW2Y4Uy32ohiJKuy9r4L1UWKAj-qGF3gzfcepq2gO2jDs",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-f9ff211df27d",
-  "name": "Gants de pilote (★) | Dragon Fists",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "name": "Gants de pilote (★) | Poings du dragon",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1904,7 +1904,7 @@
   },
   "pattern": {
    "id": "glove_driver_dragon_scale_red",
-   "name": "Dragon Fists"
+   "name": "Poings du dragon"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -1945,15 +1945,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvxfx3t-5ncDqwlBEijC-AnrD1KCzPKhgkCZdwTeIL4ES5wdXjPrm251Pdi98QzST3jy0d6nxp4e5QAKsk_q3RkUifZohUdPsK",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-2d7a4c354277",
-  "name": "Gants de pilote (★) | Garden",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "name": "Gants de pilote (★) | Jardin",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -1965,7 +1965,7 @@
   },
   "pattern": {
    "id": "glove_driver_embroidered_flowers_teal",
-   "name": "Garden"
+   "name": "Jardin"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2006,15 +2006,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3WvxON0ou5gSyyhkBkYtTGKjYrrMhTTO1d8Zc4pEr9OrES-w9exZuzrsgyLi4lEzij2in9KvHpj6u9XU6J2_aGDjwzCY709t8YdZKHwRXCqB8U",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-25977544c37d",
-  "name": "Gants de pilote (★) | Hand Sweaters",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "name": "Gants de pilote (★) | Gants argyles",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2026,7 +2026,7 @@
   },
   "pattern": {
    "id": "glove_driver_knit_argyle_green",
-   "name": "Hand Sweaters"
+   "name": "Gants argyles"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2067,15 +2067,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3WvyuB_pN5oXS6qmRgYtC-An4HGLSLANkI-CZJzROEM4xa7lYbgM7i07lOP3okXmCn4iypM7idt4udXU6p0rqHS3haBb-PCGCVNWw",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-c79f644ef9e1",
-  "name": "Gants de pilote (★) | Plum Quill",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "name": "Gants de pilote (★) | Chair de plume",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2087,7 +2087,7 @@
   },
   "pattern": {
    "id": "glove_driver_ostrich_purple",
-   "name": "Plum Quill"
+   "name": "Chair de plume"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2128,7 +2128,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvzv1iouhqRxajgA83vzi6lob-KT-JawEjXMZyQuQMs0Xpl4fvMrvn4FOI2N5Dnn78jnxI5yZj5-tXWfEs8rqX0V_DSgKUxA",
   "original": {
    "name": "slick_gloves"
   }
@@ -2136,7 +2136,7 @@
  {
   "id": "skin-f31ff8147493",
   "name": "Gants de pilote (★) | Seigaiha",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2189,15 +2189,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wv0u13vO1mXxa-kAkmvzGMmbD7LT7CAVp5Xco0W-dZuhe6wNDuP-q05g2NiYlFmSn5iS1N7yxj4LxUWPJx-6yCiFqUNOIjoc5UtEcI9GU",
   "original": {
    "name": "slick_gloves"
   }
  },
  {
   "id": "skin-b1dcd2af898f",
-  "name": "Gants de pilote (★) | Wave Chaser",
-  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile.",
+  "name": "Gants de pilote (★) | Vague tourbillonnante",
+  "description": "Conçus pour le pilotage, ces gants assurent une protection totale sans négliger la sensibilité tactile. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "slick_gloves",
    "weapon_id": 5031,
@@ -2209,7 +2209,7 @@
   },
   "pattern": {
    "id": "glove_driver_silk_dragon_white",
-   "name": "Wave Chaser"
+   "name": "Vague tourbillonnante"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -2250,7 +2250,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wv0ud6u95tXSi0mhMYpDWMjorGLSLANkI-ApsmQrFbtkPux4bgMuvg7gzWjI0Xnyz-23lI6i5s4bpWUqMl-6PQ2xaBb-Mdlpgj5g",
   "original": {
    "name": "slick_gloves"
   }
@@ -3141,8 +3141,8 @@
  },
  {
   "id": "skin-7b77498783da",
-  "name": "Gants de spécialiste (★) | Lime Polycam",
-  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités.",
+  "name": "Gants de spécialiste (★) | Polycam citron vert",
+  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3154,7 +3154,7 @@
   },
   "pattern": {
    "id": "glove_specialist_abstract_green",
-   "name": "Lime Polycam"
+   "name": "Polycam citron vert"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3202,8 +3202,8 @@
  },
  {
   "id": "skin-1f8f2cadf55b",
-  "name": "Gants de spécialiste (★) | Cloud Chaser",
-  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités.",
+  "name": "Gants de spécialiste (★) | Attrape-nuages",
+  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3215,7 +3215,7 @@
   },
   "pattern": {
    "id": "glove_specialist_dragon_blue",
-   "name": "Cloud Chaser"
+   "name": "Attrape-nuages"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3263,8 +3263,8 @@
  },
  {
   "id": "skin-6d087aad2621",
-  "name": "Gants de spécialiste (★) | Blackbook",
-  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités.",
+  "name": "Gants de spécialiste (★) | Livre noir",
+  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3276,7 +3276,7 @@
   },
   "pattern": {
    "id": "glove_specialist_graffiti_black",
-   "name": "Blackbook"
+   "name": "Livre noir"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3324,8 +3324,8 @@
  },
  {
   "id": "skin-cc0d5dff95fc",
-  "name": "Gants de spécialiste (★) | Chocolate Chesterfield",
-  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités.",
+  "name": "Gants de spécialiste (★) | Sofa chocolat",
+  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3337,7 +3337,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_black",
-   "name": "Chocolate Chesterfield"
+   "name": "Sofa chocolat"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3378,15 +3378,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhAguvymAnrD7LSrENWl8U8UoAfkNu0Ttx4CxP-zr4wDbjN4XmX79j3xM7SdisbkLBPB0q6LWiwnHM7Zs_9Bdc2KEwswI",
   "original": {
    "name": "specialist_gloves"
   }
  },
  {
   "id": "skin-da1393aefb9c",
-  "name": "Gants de spécialiste (★) | Pillow Punchers",
-  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités.",
+  "name": "Gants de spécialiste (★) | Gants matelassés",
+  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3398,7 +3398,7 @@
   },
   "pattern": {
    "id": "glove_specialist_quilted_white",
-   "name": "Pillow Punchers"
+   "name": "Gants matelassés"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3439,15 +3439,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhAguvymAnrDuKSLTO2l8U8UoAfkK5BKxkNyyZu7r4VGP3Y8UzSX_iC4av3trtbtWV_Vxq6SEh1mVN7c9_9Bdc6ulT-fJ",
   "original": {
    "name": "specialist_gloves"
   }
  },
  {
   "id": "skin-aba169232063",
-  "name": "Gants de spécialiste (★) | Sunburst",
-  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités.",
+  "name": "Gants de spécialiste (★) | Rayon de soleil",
+  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3459,7 +3459,7 @@
   },
   "pattern": {
    "id": "glove_specialist_sunburst_red",
-   "name": "Sunburst"
+   "name": "Rayon de soleil"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3500,15 +3500,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhggpsSiXiZvGMy7DAVp5Xco0W-VesRKwxtLvMbm07gLbiI1GmX33hywd7Hk45ewEAPIiqfXW2Q7FMLIjoc5U0NHpGGE",
   "original": {
    "name": "specialist_gloves"
   }
  },
  {
   "id": "skin-6977cd7028dd",
-  "name": "Gants de spécialiste (★) | Big Swell",
-  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités.",
+  "name": "Gants de spécialiste (★) | Marée haute",
+  "description": "Durables, perméables à l’air et chics, ces gants ont été conçus pour subir (et infliger) les pires brutalités. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -3520,7 +3520,7 @@
   },
   "pattern": {
    "id": "glove_specialist_wave_blue",
-   "name": "Big Swell"
+   "name": "Marée haute"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -3561,7 +3561,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MghwxtgKHlpr8HifOOV5kFJJyFOVZuhC8l9XjNL-3tgHcg41HzHr4hntBuntpse0LUvZwr_bX3QjfcepqIIhMOUI",
   "original": {
    "name": "specialist_gloves"
   }
@@ -4452,8 +4452,8 @@
  },
  {
   "id": "skin-0f6327fef452",
-  "name": "Gants de sport (★) | Violet Beadwork",
-  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil.",
+  "name": "Gants de sport (★) | Broderie pourpre",
+  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4465,7 +4465,7 @@
   },
   "pattern": {
    "id": "glove_sport_beadwork_diamonds_purple",
-   "name": "Violet Beadwork"
+   "name": "Broderie pourpre"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4513,8 +4513,8 @@
  },
  {
   "id": "skin-c747da872a60",
-  "name": "Gants de sport (★) | Frosty",
-  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil.",
+  "name": "Gants de sport (★) | Givré",
+  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4526,7 +4526,7 @@
   },
   "pattern": {
    "id": "glove_sport_camo_winter",
-   "name": "Frosty"
+   "name": "Givré"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4567,7 +4567,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_camo_winter_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOvwu97v95-RienkA8YvzSCkpu3dXqfbA5zW5N0F-dcu0K8ldDnMuPk4wHdjN9EniWthn4av31v4eoHWL1lpPOyBkNpPQ",
   "original": {
    "name": "sporty_gloves"
   }
@@ -4628,15 +4628,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_flames_orange_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOvx-J3veR6cCahlBMgtgKJk4jxNWWXblAgDJUiTeJZtBHpktDuY7m2sQPf2YNAxXn5iysf6Cc_67oGA6Ah5OSJ2AmILwG6",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-1cd6adc6787e",
-  "name": "Gants de sport (★) | Creme Pinstripe",
-  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil.",
+  "name": "Gants de sport (★) | Pinstripe crème",
+  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4648,7 +4648,7 @@
   },
   "pattern": {
    "id": "glove_sport_pinstripe_black",
-   "name": "Creme Pinstripe"
+   "name": "Pinstripe crème"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4689,15 +4689,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv0ed4o_V7Rjm2qh8rsj6OpYPwJiPTcAdzW5V2E-4IsBnswNHuZbznsQfXg4NCny_4hnhOvS04suoDVvZx86zJz1aWnYsnB-o",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-01ecc031f210",
-  "name": "Gants de sport (★) | Red Racer",
-  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil.",
+  "name": "Gants de sport (★) | Course écarlate",
+  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4709,7 +4709,7 @@
   },
   "pattern": {
    "id": "glove_sport_racer_red",
-   "name": "Red Racer"
+   "name": "Course écarlate"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4750,15 +4750,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_racer_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv0-91tfNWXSy3qhEutDWR1I77dC7GbQ4kWZNwEOJY5xLtwYHuN7yz7lPe2YgTniz2jn5Nv3lj5O0cEf1yHxfMKhM",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-635fbb080d7c",
-  "name": "Gants de sport (★) | Ultra Violent",
-  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil.",
+  "name": "Gants de sport (★) | Ultraviolent",
+  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4770,7 +4770,7 @@
   },
   "pattern": {
    "id": "glove_sport_tech_gradient_bright",
-   "name": "Ultra Violent"
+   "name": "Ultraviolent"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4811,15 +4811,15 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv1et1uN5uXSi3nBgppwKHiIb-KT_4Ml93UtZuTOcLtUW8lNDvZL634FfYi4pCyiX5iXka6Htr4uhQVqt3_vfRiAzDZap9v8fuC2Vr0A",
   "original": {
    "name": "sporty_gloves"
   }
  },
  {
   "id": "skin-9ff0ea2301d4",
-  "name": "Gants de sport (★) | Occult",
-  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil.",
+  "name": "Gants de sport (★) | Occulte",
+  "description": "Les tissus synthétiques utilisés pour ces gants les rendent durables et tape-à-l’œil. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "sporty_gloves",
    "weapon_id": 5030,
@@ -4831,7 +4831,7 @@
   },
   "pattern": {
    "id": "glove_sport_velvet_red",
-   "name": "Occult"
+   "name": "Occulte"
   },
   "min_float": 0.06,
   "max_float": 0.8,
@@ -4872,7 +4872,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_velvet_red_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv1-t6puR9cDu2kSIrujqNjsGody2XPQVzWZslEe5euxS_lYC0Yu7l4wLfj99MmCv4jXka6Slp6-4ET-N7rUuG7GIq",
   "original": {
    "name": "sporty_gloves"
   }
@@ -6647,8 +6647,8 @@
  },
  {
   "id": "skin-f64cdaac0b90",
-  "name": "AK-47 | Crane Flight",
-  "description": "Puissant et fiable, l'AK-47 est l'un des fusils d'assaut les plus célèbres au monde. Cette arme est beaucoup plus meurtrière en tirant de courtes rafales contrôlées. A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "name": "AK-47 | Envol de grue",
+  "description": "Puissant et fiable, l'AK-47 est l'un des fusils d'assaut les plus célèbres au monde. Cette arme est beaucoup plus meurtrière en tirant de courtes rafales contrôlées. Cette arme a été peinte à la main avec une grue et des accents dorés sur un fond noir et blanc.\\n\\n<i>Juste avant l'éclipse</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -6660,7 +6660,7 @@
   },
   "pattern": {
    "id": "ak47_crane_flight",
-   "name": "Crane Flight"
+   "name": "Envol de grue"
   },
   "min_float": 0,
   "max_float": 1,
@@ -6697,14 +6697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -6713,7 +6713,7 @@
    "name": "T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_crane_flight_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRa7ZsLvWsCGuZxuZij-1gSCGn20wksT7Xzo6ueX6VOgUmWZQiTO5btxDrldbmNru05QLfiN5EmHmsj3hXrnE8mi375M8",
   "original": {
    "name": "weapon_ak47"
   }
@@ -15152,8 +15152,8 @@
  },
  {
   "id": "skin-66197377b028",
-  "name": "AWP | Queen's Gambit",
-  "description": "« La fortune sourit aux audacieux », voici la devise de cette arme tristement célèbre qu'est l'AWP. Reconnaissable au son caractéristique qu'il produit, un seul tir suffit. It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+  "name": "AWP | Gambit de la dame",
+  "description": "« La fortune sourit aux audacieux », voici la devise de cette arme tristement célèbre qu'est l'AWP. Reconnaissable au son caractéristique qu'il produit, un seul tir suffit. Cette arme a été personnalisée avec de la peinture bleu roi et or. Une reine a été peinte à la main sur la crosse.\\n\\n<i>Chaque tir est un décret royal de puissance et de précision</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -15165,7 +15165,7 @@
   },
   "pattern": {
    "id": "awp_queens_gambit",
-   "name": "Queen's Gambit"
+   "name": "Gambit de la dame"
   },
   "min_float": 0,
   "max_float": 1,
@@ -15202,14 +15202,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -15218,7 +15218,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_queens_gambit_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
   "original": {
    "name": "weapon_awp"
   }
@@ -21488,7 +21488,7 @@
  {
   "id": "skin-fb5805d13a5e",
   "name": "PP-Bizon | RMX",
-  "description": "Le pistolet mitrailleur Bizon inflige de faible dégâts, mais offre un chargeur hélicoïdal haute capacité de conception unique qui permet de recharger rapidement. It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "description": "Le pistolet mitrailleur Bizon inflige de faible dégâts, mais offre un chargeur hélicoïdal haute capacité de conception unique qui permet de recharger rapidement. Cette arme a été personnalisée avec un dégradé violet et un motif rouge et blanc.\\n\\n<i>Légère, rapide et dangereuse… en théorie</i>",
   "weapon": {
    "id": "weapon_bizon",
    "weapon_id": 26,
@@ -21537,14 +21537,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -21553,7 +21553,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_rmx_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA",
   "original": {
    "name": "weapon_bizon"
   }
@@ -28872,8 +28872,8 @@
  },
  {
   "id": "skin-2bcac1c42296",
-  "name": "Desert Eagle | Firebreathing",
-  "description": "Aussi puissant que couteux, le Desert Eagle est un pistolet emblématique difficile à maitriser, mais étonnamment précis à longue distance. It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "name": "Desert Eagle | Crachefeu",
+  "description": "Aussi puissant que couteux, le Desert Eagle est un pistolet emblématique difficile à maitriser, mais étonnamment précis à longue distance. Cette arme a été personnalisée avec des flammes violettes et bleues peintes avec une peinture nacrée.\\n\\n<i>Possède des qualités et des capacités exceptionnelles</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -28885,7 +28885,7 @@
   },
   "pattern": {
    "id": "deagle_firebreathing",
-   "name": "Firebreathing"
+   "name": "Crachefeu"
   },
   "min_float": 0,
   "max_float": 1,
@@ -28922,14 +28922,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -28938,7 +28938,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_firebreathing_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_aaHGKS0-t3pOlgQS6MmRQguynLn9ircSiTPFUgCJAkQbELsxXtktDkMurk4lTZ39hEyn_-3HsbvXxj4fFCD_RcNNN-xQ",
   "original": {
    "name": "weapon_deagle"
   }
@@ -37954,8 +37954,8 @@
  },
  {
   "id": "skin-19e064301c88",
-  "name": "Five-SeveN | Dark Polymer",
-  "description": "Très précis et perforant, le Five-Seven est un pistolet assez onéreux se rechargeant lentement, mais qui a en contrepartie un généreux chargeur de 20 cartouches et un recul correct. This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "name": "Five-SeveN | Polymère sombre",
+  "description": "Très précis et perforant, le Five-Seven est un pistolet assez onéreux se rechargeant lentement, mais qui a en contrepartie un généreux chargeur de 20 cartouches et un recul correct. Cette peinture personnalisée confère à l'arme l'apparence d'un polymère violet transparent.\\n\\n<i>Enrobée d'une appétissante gelée à la myrtille</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -37967,7 +37967,7 @@
   },
   "pattern": {
    "id": "fiveseven_polymer_dark",
-   "name": "Dark Polymer"
+   "name": "Polymère sombre"
   },
   "min_float": 0,
   "max_float": 1,
@@ -38004,14 +38004,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -38020,7 +38020,7 @@
    "name": "AT"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_polymer_dark_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRbq17JeOWGGKe_v55vPhkSjuMkRw1uAKJk4jxNWWVaw9yAsF3R-cItkTqx9HiY-23tFeN3oNFyS_9jn4a5i5o5b0AB6B35OSJ2MsRWanJ",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -43144,7 +43144,7 @@
  {
   "id": "skin-8571b4f29f98",
   "name": "Galil AR | Galigator",
-  "description": "Une des options les moins coûteuses parmi les fusils d'assaut exclusifs aux terroristes, le Galil AR est une bonne arme en combat à moyenne et longue portée. An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
+  "description": "Une des options les moins coûteuses parmi les fusils d'assaut exclusifs aux terroristes, le Galil AR est une bonne arme en combat à moyenne et longue portée. Cette arme a été personnalisée avec un alligator et des symboles radioactifs sur un fond vert et jaune.\\n\\n<i>CROC ! CROC ! CROC !</i>",
   "weapon": {
    "id": "weapon_galilar",
    "weapon_id": 13,
@@ -43193,14 +43193,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -43209,7 +43209,7 @@
    "name": "T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_galil_galigator_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PWvZK1hH_eSAm6XwPp5ot5lRi67gVN_42_VydytcX3BbQ8pCsB0ReMCtEG_lYLuNuji4AGPjt8Qynj4jXlI8G81tMQ6bFYi",
   "original": {
    "name": "weapon_galilar"
   }
@@ -47858,8 +47858,8 @@
  },
  {
   "id": "skin-ec359b168d17",
-  "name": "Glock-18 | Fully Tuned",
-  "description": "Le Glock 18 est un bon pistolet de première manche, très efficace contre des adversaires sans protection et qui peut tirer des rafales de trois coups. It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "name": "Glock-18 | Modification totale",
+  "description": "Le Glock 18 est un bon pistolet de première manche, très efficace contre des adversaires sans protection et qui peut tirer des rafales de trois coups. Cette arme a été personnalisée avec des couleurs néon et de la peinture à paillettes métalliques.\\n\\n<i>C'est pas trop mon style, mais je ne suis pas le cœur de cible… – Booth, trafiquant d'armes</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -47871,7 +47871,7 @@
   },
   "pattern": {
    "id": "glock_jdpeek",
-   "name": "Fully Tuned"
+   "name": "Modification totale"
   },
   "min_float": 0,
   "max_float": 1,
@@ -47908,14 +47908,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -47924,7 +47924,7 @@
    "name": "T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_jdpeek_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tnJOCWC2yvzedxuPUnS3HqzR9152_UyNigeSqWa1BxW8ElRLJfshfpkNHuZO_n4ADd2IxBxDK-0H3ID5Y8zA",
   "original": {
    "name": "weapon_glock"
   }
@@ -90235,8 +90235,8 @@
  },
  {
   "id": "skin-526e890d5739",
-  "name": "M249 | Bock Blocks",
-  "description": "Une puissante mitrailleuse légère de zones ouvertes, la M249 est le choix parfait pour les joueurs souhaitant avoir une cadence de tir un peu plus faible au profit d'une précision accrue et d'une grande capacité de munitions. It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "name": "M249 | Blocs gallinacés",
+  "description": "Une puissante mitrailleuse légère de zones ouvertes, la M249 est le choix parfait pour les joueurs souhaitant avoir une cadence de tir un peu plus faible au profit d'une précision accrue et d'une grande capacité de munitions. Cette arme a été personnalisée avec un motif géométrique violet.\\n\\n<i>Empilez-les</i>",
   "weapon": {
    "id": "weapon_m249",
    "weapon_id": 14,
@@ -90248,7 +90248,7 @@
   },
   "pattern": {
    "id": "m249_blocks_purple",
-   "name": "Bock Blocks"
+   "name": "Blocs gallinacés"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90285,14 +90285,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -90301,7 +90301,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_m249_blocks_purple_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wi8Ju6uRaqhiI_uAMXeF0_56td5lRi67gVNw4juHnIr_JSmeOwQnXsd1RbZYtkTpkoDjY7nm5Vfci4NDxS__jyoY8G81tOB68LmM",
   "original": {
    "name": "weapon_m249"
   }
@@ -94267,7 +94267,7 @@
  {
   "id": "skin-ca4c3950bda2",
   "name": "M4A4 | Zubastick",
-  "description": "Plus précise mais moins puissante que l'AK-47, la M4A4 est le fusil d'assaut automatique de prédilection des antiterroristes. Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
+  "description": "Plus précise mais moins puissante que l'AK-47, la M4A4 est le fusil d'assaut automatique de prédilection des antiterroristes. Des dents et des yeux orange ont été peints à la main sur ce M4A4.\\n\\n<i>Depuis 1991</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -94316,14 +94316,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -94332,7 +94332,7 @@
    "name": "AT"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_zubastick_bw_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRcrFvIeOHB2Sb_uxhj-1gSCGn208j5WqDw9ascn6VOlQoCJV0RbVb5xO5l4fgY-Pk5waMitpHzS79jiJXrnE8cY5TeGQ",
   "original": {
    "name": "weapon_m4a1"
   }
@@ -97366,7 +97366,7 @@
  {
   "id": "skin-62ecfa87b86d",
   "name": "M4A1-S | Electrum",
-  "description": "Possédant un plus petit chargeur que son homologue assourdissant, la M4A1 possède un silencieux qui permet de diminuer le recul et d'augmenter la précision tout en réduisant le bruit des tirs. It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "description": "Possédant un plus petit chargeur que son homologue assourdissant, la M4A1 possède un silencieux qui permet de diminuer le recul et d'augmenter la précision tout en réduisant le bruit des tirs. Cette arme a été personnalisée avec une base verte marbrée et des finitions dorées et rouges.\\n\\n<i>On ne vous paie pas assez pour porter ces couleurs, mais moi, je le ferai. – Valeria Jenner, révolutionnaire</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -97415,14 +97415,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -97431,7 +97431,7 @@
    "name": "AT"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_electrum_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ut6teJ9XTy-qhEutDWR1Iz4cnjCag51DZQlEOIMtEa7k9TiNbmw51OP3tlBxCr8iCsY6C5t6uwcEf1y--utkZE",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -109583,8 +109583,8 @@
  },
  {
   "id": "skin-55d44f236355",
-  "name": "MP7 | Amberline",
-  "description": "Polyvalent mais coûteux, le pistolet mitrailleur MP7 de fabrication allemande est le choix parfait pour infliger d'important dégâts en combat rapproché. It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "name": "MP7 | Lueur ambrée",
+  "description": "Polyvalent mais coûteux, le pistolet mitrailleur MP7 de fabrication allemande est le choix parfait pour infliger d'important dégâts en combat rapproché. Cette arme a été peinte à la bombe avec des bandes diagonales orange et blanches.\\n\\n<i>Une marque en main</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -109596,7 +109596,7 @@
   },
   "pattern": {
    "id": "mp7_amberline",
-   "name": "Amberline"
+   "name": "Lueur ambrée"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109633,14 +109633,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -109649,7 +109649,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_amberline_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0POjaqF_LPmdC1icyOl-pK9rTCzlzBx14m-AyNupdXqfaQElXsN0QLICsxSxw4HjZuzm4gePjY5C02yg2Z3LgsMw",
   "original": {
    "name": "weapon_mp7"
   }
@@ -113287,8 +113287,8 @@
  },
  {
   "id": "skin-36e373c7de1c",
-  "name": "MP9 | Urban Sovereign",
-  "description": "Fabriqué en Suisse, le pistolet mitrailleur MP9 est une arme ergonomique en polymère appréciée des entreprises de sécurité privée. It has been custom painted with an urban material design and finished with gold graffiti.\\n\\n<i>Kings don't hide behind walls, they paint them</i>",
+  "name": "MP9 | Souverain urbain",
+  "description": "Fabriqué en Suisse, le pistolet mitrailleur MP9 est une arme ergonomique en polymère appréciée des entreprises de sécurité privée. Cette arme a été personnalisée avec un design urbain orné de graffitis dorés.\\n\\n<i>Les rois ne se cachent pas derrière les murs, ils les peignent</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -113300,7 +113300,7 @@
   },
   "pattern": {
    "id": "mp9_urban_sovereign",
-   "name": "Urban Sovereign"
+   "name": "Souverain urbain"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113337,14 +113337,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -113353,7 +113353,7 @@
    "name": "AT"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_urban_sovereign_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0Oe8aqVjH-OcGGKCxOdxvt5lRi67gVMi4m6DmY2hcXLFPAMiA8NxQ-9cshK_m9yyYem04ACLg9hAzH6q239I8G81tD9Ib4M_",
   "original": {
    "name": "weapon_mp9"
   }
@@ -123189,7 +123189,7 @@
  {
   "id": "skin-2f5828f37817",
   "name": "P250 | Kintsugi",
-  "description": "Une arme à faible recul et à cadence de tir élevée, le P250 est un choix relativement peu coûteux contre des adversaires portant des protections. A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "description": "Une arme à faible recul et à cadence de tir élevée, le P250 est un choix relativement peu coûteux contre des adversaires portant des protections. Cette arme a été personnalisée avec un oiseau orange éclatant et des accents dorés sur un fond ivoire.\\n\\n<i>Comme l'argenterie du dimanche, on ne sort cette arme que pour les grandes occasions</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -123238,14 +123238,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -123254,7 +123254,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_kintsugi_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg",
   "original": {
    "name": "weapon_p250"
   }
@@ -127157,8 +127157,8 @@
  },
  {
   "id": "skin-612576d81a84",
-  "name": "P90 | Deathgaze",
-  "description": "Facilement reconnaissable par son architecture « bullpup », le P90 est une excellente arme pour tirer tout en se déplaçant grâce à son chargeur grande capacité et son faible recul. It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "name": "P90 | Regard mortel",
+  "description": "Facilement reconnaissable par son architecture « bullpup », le P90 est une excellente arme pour tirer tout en se déplaçant grâce à son chargeur grande capacité et son faible recul. Cette arme a été personnalisée avec un graffiti de Méduse sur un socle en marbre de Carrare.\\n\\n<i>Ne vénérez pas les idoles érigées sur un mensonge</i>",
   "weapon": {
    "id": "weapon_p90",
    "weapon_id": 19,
@@ -127170,7 +127170,7 @@
   },
   "pattern": {
    "id": "p90_deathgaze",
-   "name": "Deathgaze"
+   "name": "Regard mortel"
   },
   "min_float": 0,
   "max_float": 1,
@@ -127207,14 +127207,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -127223,7 +127223,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_p90_deathgaze_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0ParabBlJ_GJC1icyOl-pK85GHy1kEh3627Tntn6dC-SOgFyXJR3RO8Jt0a7lIG1M-PksgLZjNoT02yg2XMB6aCz",
   "original": {
    "name": "weapon_p90"
   }
@@ -132648,7 +132648,7 @@
  {
   "id": "skin-39ceb900b437",
   "name": "Sawed-Off | Fusion",
-  "description": "Le classique Sawed-Off inflige de très lourds dégâts à courte portée, mais en raison de son manque de précision, de sa forte dispersion et de sa faible cadence de tir, vous feriez mieux de ne pas louper vos cibles. It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
+  "description": "Le classique Sawed-Off inflige de très lourds dégâts à courte portée, mais en raison de son manque de précision, de sa forte dispersion et de sa faible cadence de tir, vous feriez mieux de ne pas louper vos cibles. Cette arme a été personnalisée avec un motif noir et or. Des détails supplémentaires se révèlent sous différents éclairages.\\n\\n<i>Je l'ai vu de mes propres yeux…</i>",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -132697,14 +132697,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -132713,7 +132713,7 @@
    "name": "T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_fusion_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29abNoJP-VCFiW1P1_v-9WQyC0nQlp4WiHyY79eHmXOw4mW5JwQ-Jc5hO7koXjML_jsgSK2oJHmyz82ilB7DErvbjU0C2wDw",
   "original": {
    "name": "weapon_sawedoff"
   }
@@ -149471,7 +149471,7 @@
  {
   "id": "skin-40743fbc40a8",
   "name": "UMP-45 | Fragment",
-  "description": "L'UMP45, cadet incompris de la famille des pistolets mitrailleurs, est une arme automatique versatile en combat rapproché, malgré son petit chargeur. It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "description": "L'UMP45, cadet incompris de la famille des pistolets mitrailleurs, est une arme automatique versatile en combat rapproché, malgré son petit chargeur. Cette arme a été personnalisée avec un motif argenté, noir et rouge.\\n\\n<i>De frags en frags</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -149520,14 +149520,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -149536,7 +149536,7 @@
    "name": "AT et T"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_ump_fragment_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1O4uKRbrZsJ_2WAHOvzedxuPUnGH3qwxtzsjzczN-odXqePQN0C5EiFrUK50G7lYXkP7jh71bXjdlEyDK-0H3tn7dQwA",
   "original": {
    "name": "weapon_ump45"
   }
@@ -152945,8 +152945,8 @@
  },
  {
   "id": "skin-12f8829b002d",
-  "name": "USP-S | Silent Shot",
-  "description": "Une des armes les plus plébiscitées dans Counter-Strike: Source, le pistolet USP possède un silencieux amovible qui diminue le recul et le bruit afin de gagner en discrétion. It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "name": "USP-S | Tir silencieux",
+  "description": "Une des armes les plus plébiscitées dans Counter-Strike: Source, le pistolet USP possède un silencieux amovible qui diminue le recul et le bruit afin de gagner en discrétion. Cette arme a été personnalisée avec des symboles géométriques noirs et bleus et des shurikens.\\n\\n<i>Faites preuve de discrétion lors de toute agression</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -152958,7 +152958,7 @@
   },
   "pattern": {
    "id": "usps_silent_boy",
-   "name": "Silent Shot"
+   "name": "Tir silencieux"
   },
   "min_float": 0,
   "max_float": 1,
@@ -152995,14 +152995,14 @@
   "collections": [
    {
     "id": "collection-set-community-37",
-    "name": "The Dead Hand Collection",
+    "name": "Collection Main morte",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
    }
   ],
   "crates": [
    {
     "id": "crate-5181",
-    "name": "Sealed Dead Hand Terminal",
+    "name": "Terminal Main morte scellé",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE"
    }
   ],
@@ -153011,7 +153011,7 @@
    "name": "AT"
   },
   "legacy_model": false,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_silent_boy_light_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViDyOJzvvVWTSaqqhEutDWR1Nf8cn_CPAQmW8Z5Ee8P4UbuxILmMLu3tAXYj4hByyWsjCscvy89sOYcEf1yCvXTIoM",
   "original": {
    "name": "weapon_usp_silencer"
   }
