@@ -1,18 +1,18 @@
 [
  {
   "id": "keychain-1",
-  "name": "Charm | Lil' Ava",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小爱娃",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "1",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -25,18 +25,18 @@
  },
  {
   "id": "keychain-2",
-  "name": "Charm | That's Bananas",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 怪香蕉",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "2",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -49,18 +49,18 @@
  },
  {
   "id": "keychain-3",
-  "name": "Charm | Lil' Whiskers",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小胡须",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "3",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -73,18 +73,18 @@
  },
  {
   "id": "keychain-4",
-  "name": "Charm | Lil' Sandy",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小沙蒂",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "4",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -97,18 +97,18 @@
  },
  {
   "id": "keychain-5",
-  "name": "Charm | Chicken Lil'",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 鸡老幺",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "5",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -121,18 +121,18 @@
  },
  {
   "id": "keychain-6",
-  "name": "Charm | Lil' Crass",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小克拉斯",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "6",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -145,18 +145,18 @@
  },
  {
   "id": "keychain-7",
-  "name": "Charm | Hot Howl",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 嚎哮酱",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "7",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -169,18 +169,18 @@
  },
  {
   "id": "keychain-8",
-  "name": "Charm | Big Kev",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 大凯夫",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "8",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -193,18 +193,18 @@
  },
  {
   "id": "keychain-9",
-  "name": "Charm | Lil' Monster",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小大嘴",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "9",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -217,18 +217,18 @@
  },
  {
   "id": "keychain-10",
-  "name": "Charm | Hot Sauce",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 起原酱",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "10",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -241,18 +241,18 @@
  },
  {
   "id": "keychain-11",
-  "name": "Charm | Diamond Dog",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 金刚犬",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "11",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -265,18 +265,18 @@
  },
  {
   "id": "keychain-12",
-  "name": "Charm | Pinch O' Salt",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 盐力哥",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "12",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -289,18 +289,18 @@
  },
  {
   "id": "keychain-13",
-  "name": "Charm | Diner Dog",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 美食犬",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "13",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -313,18 +313,18 @@
  },
  {
   "id": "keychain-14",
-  "name": "Charm | Lil' Teacup",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小杯子",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "14",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -337,18 +337,18 @@
  },
  {
   "id": "keychain-15",
-  "name": "Charm | Lil' SAS",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小SAS",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "15",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -361,18 +361,18 @@
  },
  {
   "id": "keychain-16",
-  "name": "Charm | Hot Wurst",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 烤肠酱",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "16",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -385,18 +385,18 @@
  },
  {
   "id": "keychain-17",
-  "name": "Charm | Baby's AK",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 宝宝AK",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "17",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -409,18 +409,18 @@
  },
  {
   "id": "keychain-18",
-  "name": "Charm | Die-cast AK",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 压铸AK",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "18",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -433,18 +433,18 @@
  },
  {
   "id": "keychain-19",
-  "name": "Charm | Pocket AWP",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 袖珍AWP",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "19",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -457,18 +457,18 @@
  },
  {
   "id": "keychain-20",
-  "name": "Charm | Titeenium AWP",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 钛金AWP",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "20",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -481,18 +481,18 @@
  },
  {
   "id": "keychain-21",
-  "name": "Charm | Baby Karat CT",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | K金CT",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "21",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -505,18 +505,18 @@
  },
  {
   "id": "keychain-22",
-  "name": "Charm | Whittle Knife",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 木刻",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "22",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -529,18 +529,18 @@
  },
  {
   "id": "keychain-23",
-  "name": "Charm | POP Art",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 波普艺术",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "23",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -553,18 +553,18 @@
  },
  {
   "id": "keychain-24",
-  "name": "Charm | Lil' Squirt",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小水枪",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "24",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -577,18 +577,18 @@
  },
  {
   "id": "keychain-25",
-  "name": "Charm | Disco MAC",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 迪斯科MAC",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "25",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -601,18 +601,18 @@
  },
  {
   "id": "keychain-26",
-  "name": "Charm | Backsplash",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 背板",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "26",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -625,18 +625,18 @@
  },
  {
   "id": "keychain-27",
-  "name": "Charm | Lil' Cap Gun",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 袖珍玩具枪",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "27",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -649,18 +649,18 @@
  },
  {
   "id": "keychain-28",
-  "name": "Charm | Hot Hands",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 手感火热",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "28",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -673,18 +673,18 @@
  },
  {
   "id": "keychain-29",
-  "name": "Charm | Semi-Precious",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 半宝石",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "29",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -697,18 +697,18 @@
  },
  {
   "id": "keychain-30",
-  "name": "Charm | Baby Karat T",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | K金T",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "30",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -721,18 +721,18 @@
  },
  {
   "id": "keychain-31",
-  "name": "Charm | Glamour Shot",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 魅力一击",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "31",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -745,18 +745,18 @@
  },
  {
   "id": "keychain-32",
-  "name": "Charm | Stitch-Loaded",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 针织",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "32",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-weapon-01",
-    "name": "Small Arms Charm Collection",
+    "name": "袖珍武器挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_weapon_01_png.png"
    }
   ],
@@ -769,18 +769,18 @@
  },
  {
   "id": "keychain-33",
-  "name": "Charm | Lil' Squatch",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小脚怪",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "33",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-missinglink",
-    "name": "Missing Link Charm Collection",
+    "name": "迷链挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_missinglink_png.png"
    }
   ],
@@ -793,18 +793,18 @@
  },
  {
   "id": "keychain-38",
-  "name": "Charm | Lil' Curse",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小诅咒",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "38",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -817,18 +817,18 @@
  },
  {
   "id": "keychain-39",
-  "name": "Charm | Lil' Serpent",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小火蛇",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "39",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -841,18 +841,18 @@
  },
  {
   "id": "keychain-40",
-  "name": "Charm | Lil' Baller",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小球员",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "40",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -865,18 +865,18 @@
  },
  {
   "id": "keychain-41",
-  "name": "Charm | Dead Weight",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 生命之重",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "41",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -889,18 +889,18 @@
  },
  {
   "id": "keychain-42",
-  "name": "Charm | Lil' Prick",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小刺头",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "42",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -913,18 +913,18 @@
  },
  {
   "id": "keychain-43",
-  "name": "Charm | Lil' Buns",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小圆堡",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "43",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -937,18 +937,18 @@
  },
  {
   "id": "keychain-44",
-  "name": "Charm | Lil' Smokey",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小烟鬼",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "44",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -961,18 +961,18 @@
  },
  {
   "id": "keychain-45",
-  "name": "Charm | Lil' Eldritch",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小邪灵",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "45",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -985,18 +985,18 @@
  },
  {
   "id": "keychain-46",
-  "name": "Charm | Lil' Happy",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小嗨皮",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "46",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1009,18 +1009,18 @@
  },
  {
   "id": "keychain-47",
-  "name": "Charm | Magmatude",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 岩浆巨兽",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "47",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1033,18 +1033,18 @@
  },
  {
   "id": "keychain-48",
-  "name": "Charm | Lil' Cackle",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小咯咯",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "48",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1057,18 +1057,18 @@
  },
  {
   "id": "keychain-49",
-  "name": "Charm | Quick Silver",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 银色闪电",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "49",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1081,18 +1081,18 @@
  },
  {
   "id": "keychain-50",
-  "name": "Charm | Lil' No. 2",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小笔头",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "50",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1105,18 +1105,18 @@
  },
  {
   "id": "keychain-51",
-  "name": "Charm | Piñatita",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 皮纳塔",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "51",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1129,18 +1129,18 @@
  },
  {
   "id": "keychain-52",
-  "name": "Charm | Pocket Pop",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 口袋泡泡",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "52",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1153,18 +1153,18 @@
  },
  {
   "id": "keychain-53",
-  "name": "Charm | Lil' Hero",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小铁侠",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "53",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1177,18 +1177,18 @@
  },
  {
   "id": "keychain-54",
-  "name": "Charm | Lil' Tusk",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小象牙",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "54",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1201,18 +1201,18 @@
  },
  {
   "id": "keychain-55",
-  "name": "Charm | Lil' Goop",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小粘液",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "55",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1225,18 +1225,18 @@
  },
  {
   "id": "keychain-56",
-  "name": "Charm | Hang Loose",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 松弛仔",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "56",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1249,18 +1249,18 @@
  },
  {
   "id": "keychain-57",
-  "name": "Charm | Lil' Vino",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小酒鬼",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "57",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1273,18 +1273,18 @@
  },
  {
   "id": "keychain-58",
-  "name": "Charm | Lil' Moments",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小咔嚓",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "58",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1297,18 +1297,18 @@
  },
  {
   "id": "keychain-59",
-  "name": "Charm | Lil' Boo",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小布",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "59",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1321,18 +1321,18 @@
  },
  {
   "id": "keychain-60",
-  "name": "Charm | Lil' Chirp",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小啾啾",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "60",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-ml-community-01",
-    "name": "Missing Link Community Charm Collection",
+    "name": "迷链社区挂件收藏品",
     "image": "https://cdn.steamstatic.com/apps/730/icons/econ/set_icons/set_kc_ml_community_01.6575c6767ec10b0720cc8833c67a2bb98698422c.png"
    }
   ],
@@ -1345,18 +1345,18 @@
  },
  {
   "id": "keychain-61",
-  "name": "Charm | Big Brain",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 大聪明",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "61",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1369,18 +1369,18 @@
  },
  {
   "id": "keychain-62",
-  "name": "Charm | Biomech",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 生化机械",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "62",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1393,18 +1393,18 @@
  },
  {
   "id": "keychain-63",
-  "name": "Charm | Splatter Cat",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 泼天猫",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "63",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1417,18 +1417,18 @@
  },
  {
   "id": "keychain-64",
-  "name": "Charm | Gritty",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 头铁MVP",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "64",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1441,18 +1441,18 @@
  },
  {
   "id": "keychain-65",
-  "name": "Charm | Fluffy",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 毛耸耸",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "65",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1465,18 +1465,18 @@
  },
  {
   "id": "keychain-66",
-  "name": "Charm | Whittle Guy",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小雕刻家",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "66",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1489,18 +1489,18 @@
  },
  {
   "id": "keychain-67",
-  "name": "Charm | Lil' Zen",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小道长",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "67",
   "rarity": {
    "id": "rarity_rare",
-   "name": "High Grade",
+   "name": "高级",
    "color": "#4b69ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1513,18 +1513,18 @@
  },
  {
   "id": "keychain-68",
-  "name": "Charm | Lil' Facelift",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小变脸",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "68",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1537,18 +1537,18 @@
  },
  {
   "id": "keychain-69",
-  "name": "Charm | Lil' Chomper",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小钢牙",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "69",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1561,18 +1561,18 @@
  },
  {
   "id": "keychain-70",
-  "name": "Charm | Lil' Bloody",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小小丑",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "70",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1585,18 +1585,18 @@
  },
  {
   "id": "keychain-71",
-  "name": "Charm | Lil' Dumplin'",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小包子",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "71",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1609,18 +1609,18 @@
  },
  {
   "id": "keychain-72",
-  "name": "Charm | Bomb Tag",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 炸弹标签",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "72",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1633,18 +1633,18 @@
  },
  {
   "id": "keychain-73",
-  "name": "Charm | Glitter Bomb",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 闪耀炸弹",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "73",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1657,18 +1657,18 @@
  },
  {
   "id": "keychain-74",
-  "name": "Charm | Lil' Eco",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小抠儿",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "74",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1681,18 +1681,18 @@
  },
  {
   "id": "keychain-75",
-  "name": "Charm | Hungry Eyes",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 饥饿之眼",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "75",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1705,18 +1705,18 @@
  },
  {
   "id": "keychain-76",
-  "name": "Charm | Eye of Ball",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 大眼球",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "76",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1729,18 +1729,18 @@
  },
  {
   "id": "keychain-77",
-  "name": "Charm | Lil' Yeti",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小雪怪",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "77",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1753,18 +1753,18 @@
  },
  {
   "id": "keychain-78",
-  "name": "Charm | 8 Ball IGL",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 黑八指挥",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "78",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1777,18 +1777,18 @@
  },
  {
   "id": "keychain-79",
-  "name": "Charm | Flash Bomb",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 闪光炸弹",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "79",
   "rarity": {
    "id": "rarity_legendary",
-   "name": "Exotic",
+   "name": "奇异",
    "color": "#d32ce6"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1801,18 +1801,18 @@
  },
  {
   "id": "keychain-80",
-  "name": "Charm | Lil' Ferno",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 小火球",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "80",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1825,18 +1825,18 @@
  },
  {
   "id": "keychain-81",
-  "name": "Charm | Butane Buddy",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 丁烷拍档",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "81",
   "rarity": {
    "id": "rarity_ancient",
-   "name": "Extraordinary",
+   "name": "非凡",
    "color": "#eb4b4b"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
@@ -1849,18 +1849,18 @@
  },
  {
   "id": "keychain-82",
-  "name": "Charm | Dr. Brian",
-  "description": "This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "name": "挂件 | 布莱恩博士",
+  "description": "此挂件可以装配到你拥有的任何武器上。每个被装配的挂件可以使用挂件拆卸器将其拆卸。拆卸掉的挂件将返还至你的库存。",
   "def_index": "82",
   "rarity": {
    "id": "rarity_mythical",
-   "name": "Remarkable",
+   "name": "卓越",
    "color": "#8847ff"
   },
   "collections": [
    {
     "id": "collection-set-kc-drboom",
-    "name": "Dr Boom Charm Collection",
+    "name": "爆炸博士挂件收藏品",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_kc_drboom_png.png"
    }
   ],
