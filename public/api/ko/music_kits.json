@@ -3184,5 +3184,221 @@
    "name": "tigercub_01",
    "image_inventory": "econ/music_kits/tigercub_01"
   }
+ },
+ {
+  "id": "music_kit-98",
+  "name": "Music Kit | ALRT, DOPAMINE HIT",
+  "description": "이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "def_index": "98",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ALRT, DOPAMINE HIT",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alrt_01_png.png",
+  "original": {
+   "name": "alrt_01",
+   "image_inventory": "econ/music_kits/alrt_01"
+  }
+ },
+ {
+  "id": "music_kit-98_st",
+  "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
+  "description": "<span style='color:#99ccff;'>이 무기는 특정 활동의 통계를 기록하는 StatTrak™ 기술을 사용합니다.</span><br/><br/><span style='color:#cf6a32;'>이 아이템은 공식 경쟁 매치에서의 MVP 횟수를 기록합니다.</span><br/><br/>이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "def_index": "98",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alrt_01_png.png",
+  "original": {
+   "name": "alrt_01",
+   "image_inventory": "econ/music_kits/alrt_01"
+  }
+ },
+ {
+  "id": "music_kit-99",
+  "name": "Music Kit | Altare, Change My Mind",
+  "description": "이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "def_index": "99",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Altare, Change My Mind",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/altare_01_png.png",
+  "original": {
+   "name": "altare_01",
+   "image_inventory": "econ/music_kits/altare_01"
+  }
+ },
+ {
+  "id": "music_kit-99_st",
+  "name": "StatTrak™ Music Kit | Altare, Change My Mind",
+  "description": "<span style='color:#99ccff;'>이 무기는 특정 활동의 통계를 기록하는 StatTrak™ 기술을 사용합니다.</span><br/><br/><span style='color:#cf6a32;'>이 아이템은 공식 경쟁 매치에서의 MVP 횟수를 기록합니다.</span><br/><br/>이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "def_index": "99",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Altare, Change My Mind",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/altare_01_png.png",
+  "original": {
+   "name": "altare_01",
+   "image_inventory": "econ/music_kits/altare_01"
+  }
+ },
+ {
+  "id": "music_kit-100",
+  "name": "Music Kit | borne, Give It To Me",
+  "description": "이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "def_index": "100",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | borne, Give It To Me",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/borne_01_png.png",
+  "original": {
+   "name": "borne_01",
+   "image_inventory": "econ/music_kits/borne_01"
+  }
+ },
+ {
+  "id": "music_kit-100_st",
+  "name": "StatTrak™ Music Kit | borne, Give It To Me",
+  "description": "<span style='color:#99ccff;'>이 무기는 특정 활동의 통계를 기록하는 StatTrak™ 기술을 사용합니다.</span><br/><br/><span style='color:#cf6a32;'>이 아이템은 공식 경쟁 매치에서의 MVP 횟수를 기록합니다.</span><br/><br/>이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "def_index": "100",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | borne, Give It To Me",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/borne_01_png.png",
+  "original": {
+   "name": "borne_01",
+   "image_inventory": "econ/music_kits/borne_01"
+  }
+ },
+ {
+  "id": "music_kit-101",
+  "name": "Music Kit | Pirapus, EVERYNITE",
+  "description": "이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "def_index": "101",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Pirapus, EVERYNITE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pirapus_01_png.png",
+  "original": {
+   "name": "pirapus_01",
+   "image_inventory": "econ/music_kits/pirapus_01"
+  }
+ },
+ {
+  "id": "music_kit-101_st",
+  "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
+  "description": "<span style='color:#99ccff;'>이 무기는 특정 활동의 통계를 기록하는 StatTrak™ 기술을 사용합니다.</span><br/><br/><span style='color:#cf6a32;'>이 아이템은 공식 경쟁 매치에서의 MVP 횟수를 기록합니다.</span><br/><br/>이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "def_index": "101",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pirapus_01_png.png",
+  "original": {
+   "name": "pirapus_01",
+   "image_inventory": "econ/music_kits/pirapus_01"
+  }
+ },
+ {
+  "id": "music_kit-102",
+  "name": "Music Kit | Repiet & Julia Kleijn, On And On",
+  "description": "이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "def_index": "102",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Repiet & Julia Kleijn, On And On",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/repiet_01_png.png",
+  "original": {
+   "name": "repiet_01",
+   "image_inventory": "econ/music_kits/repiet_01"
+  }
+ },
+ {
+  "id": "music_kit-102_st",
+  "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
+  "description": "<span style='color:#99ccff;'>이 무기는 특정 활동의 통계를 기록하는 StatTrak™ 기술을 사용합니다.</span><br/><br/><span style='color:#cf6a32;'>이 아이템은 공식 경쟁 매치에서의 MVP 횟수를 기록합니다.</span><br/><br/>이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "def_index": "102",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/repiet_01_png.png",
+  "original": {
+   "name": "repiet_01",
+   "image_inventory": "econ/music_kits/repiet_01"
+  }
+ },
+ {
+  "id": "music_kit-103",
+  "name": "Music Kit | ShockOne, Voices",
+  "description": "이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "def_index": "103",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ShockOne, Voices",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/shockone_01_png.png",
+  "original": {
+   "name": "shockone_01",
+   "image_inventory": "econ/music_kits/shockone_01"
+  }
+ },
+ {
+  "id": "music_kit-103_st",
+  "name": "StatTrak™ Music Kit | ShockOne, Voices",
+  "description": "<span style='color:#99ccff;'>이 무기는 특정 활동의 통계를 기록하는 StatTrak™ 기술을 사용합니다.</span><br/><br/><span style='color:#cf6a32;'>이 아이템은 공식 경쟁 매치에서의 MVP 횟수를 기록합니다.</span><br/><br/>이 음악 키트는 게임에서 나오는 모든 음악을 바꾸며 같이 플레이하는 사람과 공유할 수 있습니다. 또한 자신이 매치의 MVP가 되었을 때 모두에게 MVP 배경음이 들리게 됩니다.\\n\\n음악 키트가 바꾸는 음악:\\n- 메인 메뉴\\n- 라운드 시작과 끝\\n- 맵 목표\\n- 10초 경고음\\n- 사망 시 카메라<br/><br/>Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "def_index": "103",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "고급",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ShockOne, Voices",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/shockone_01_png.png",
+  "original": {
+   "name": "shockone_01",
+   "image_inventory": "econ/music_kits/shockone_01"
+  }
  }
 ]
