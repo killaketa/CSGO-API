@@ -3187,8 +3187,8 @@
  },
  {
   "id": "music_kit-98",
-  "name": "Music Kit | ALRT, DOPAMINE HIT",
-  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "Gói âm thanh | ALRT, DOPAMINE HIT",
+  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Giai điệu bass house năng động của ALRT mang đến cảm giác \\\"DOPAMINE HIT\\\" cực đỉnh, giúp bạn tập trung tối đa và tỏa sáng vào thời điểm then chốt nhất.",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -3205,8 +3205,8 @@
  },
  {
   "id": "music_kit-98_st",
-  "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
-  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>ALRT's bouncy bass house record delivers the ultimate \\\"DOPAMINE HIT\\\", keeping you locked in and ready to rise to the occasion when it matters most.",
+  "name": "Gói âm thanh StatTrak™ | ALRT, DOPAMINE HIT",
+  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Giai điệu bass house năng động của ALRT mang đến cảm giác \\\"DOPAMINE HIT\\\" cực đỉnh, giúp bạn tập trung tối đa và tỏa sáng vào thời điểm then chốt nhất.",
   "def_index": "98",
   "rarity": {
    "id": "rarity_rare",
@@ -3223,8 +3223,8 @@
  },
  {
   "id": "music_kit-99",
-  "name": "Music Kit | Altare, Change My Mind",
-  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "Gói âm thanh | Altare, Change My Mind",
+  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Bản thánh ca \\\"Change My Mind\\\" của Altare đầy hưng phấn là lựa chọn hoàn hảo với những khoảnh khắc thăng hoa nhất, khi bạn cảm giác không ai có thể cản bước mình.",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -3241,8 +3241,8 @@
  },
  {
   "id": "music_kit-99_st",
-  "name": "StatTrak™ Music Kit | Altare, Change My Mind",
-  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Altare's euphoric wave anthem \\\"Change My Mind\\\" is perfect for the highest of highs when it feels like nobody can stand in your way.",
+  "name": "Gói âm thanh StatTrak™ | Altare, Change My Mind",
+  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Bản thánh ca \\\"Change My Mind\\\" của Altare đầy hưng phấn là lựa chọn hoàn hảo với những khoảnh khắc thăng hoa nhất, khi bạn cảm giác không ai có thể cản bước mình.",
   "def_index": "99",
   "rarity": {
    "id": "rarity_rare",
@@ -3259,8 +3259,8 @@
  },
  {
   "id": "music_kit-100",
-  "name": "Music Kit | borne, Give It To Me",
-  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "Gói âm thanh | borne, Give It To Me",
+  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>\\\"Give It To Me\\\" của borne với những nốt bass sần sùi sẽ cho người chơi sẵn sàng tới bến chạm trán đối thủ, dù ở trong Counter-Strike hay hơn nữa.",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -3277,8 +3277,8 @@
  },
  {
   "id": "music_kit-100_st",
-  "name": "StatTrak™ Music Kit | borne, Give It To Me",
-  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>borne's gritty bass banger \\\"Give It To Me\\\" will have players ready to give it to their opponents in Counter-Strike, and beyond.",
+  "name": "Gói âm thanh StatTrak™ | borne, Give It To Me",
+  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>\\\"Give It To Me\\\" của borne với những nốt bass sần sùi sẽ cho người chơi sẵn sàng tới bến chạm trán đối thủ, dù ở trong Counter-Strike hay hơn nữa.",
   "def_index": "100",
   "rarity": {
    "id": "rarity_rare",
@@ -3295,8 +3295,8 @@
  },
  {
   "id": "music_kit-101",
-  "name": "Music Kit | Pirapus, EVERYNITE",
-  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "Gói âm thanh | Pirapus, EVERYNITE",
+  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Bản hùng ca D'n'B tràn đầy năng lượng trống và bass \\\"EVERYNITE\\\" của Pirapus sẽ gợi lên cảm xúc như đang đứng trước ngưỡng vĩ đại. Và giống như tên gọi, đảm bảo bạn giữ tập trung phong độ mỗi đêm.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -3313,8 +3313,8 @@
  },
  {
   "id": "music_kit-101_st",
-  "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
-  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Pirapus' high octane drum and bass anthem \\\"EVERYNITE\\\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night.",
+  "name": "Gói âm thanh StatTrak™ | Pirapus, EVERYNITE",
+  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Bản hùng ca D'n'B tràn đầy năng lượng trống và bass \\\"EVERYNITE\\\" của Pirapus sẽ gợi lên cảm xúc như đang đứng trước ngưỡng vĩ đại. Và giống như tên gọi, đảm bảo bạn giữ tập trung phong độ mỗi đêm.",
   "def_index": "101",
   "rarity": {
    "id": "rarity_rare",
@@ -3331,8 +3331,8 @@
  },
  {
   "id": "music_kit-102",
-  "name": "Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "Gói âm thanh | Repiet & Julia Kleijn, On And On",
+  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Hãy chuẩn bị cho bất kỳ thách thức nào với bản nhạc cuốn hút \\\"On And On\\\" của Repiet và Julia Kleijn. Trải nghiệm những cung bậc cảm xúc, đây là ca khúc sẽ giúp bạn định hình tâm thế để đánh phá mọi rào cản.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -3349,8 +3349,8 @@
  },
  {
   "id": "music_kit-102_st",
-  "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
-  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \\\"On And On.\\\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle.",
+  "name": "Gói âm thanh StatTrak™ | Repiet & Julia Kleijn, On And On",
+  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Hãy chuẩn bị cho bất kỳ thách thức nào với bản nhạc cuốn hút \\\"On And On\\\" của Repiet và Julia Kleijn. Trải nghiệm những cung bậc cảm xúc, đây là ca khúc sẽ giúp bạn định hình tâm thế để đánh phá mọi rào cản.",
   "def_index": "102",
   "rarity": {
    "id": "rarity_rare",
@@ -3367,8 +3367,8 @@
  },
  {
   "id": "music_kit-103",
-  "name": "Music Kit | ShockOne, Voices",
-  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "Gói âm thanh | ShockOne, Voices",
+  "description": "Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Bứt phá với những tiếng trống và bass tràn đầy năng lượng của ShockOne trong \\\"Voices\\\". Lý tưởng cho những pha gánh tạ lật kèo, gói âm thanh mang đến những dải bass uy lực và đưa bạn tới nhiều danh hiệu MVP.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
@@ -3385,8 +3385,8 @@
  },
  {
   "id": "music_kit-103_st",
-  "name": "StatTrak™ Music Kit | ShockOne, Voices",
-  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Break free with ShockOne's high energy drum and bass record \\\"Voices.\\\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs.",
+  "name": "Gói âm thanh StatTrak™ | ShockOne, Voices",
+  "description": "<span style='color:#99ccff;'>Vật phẩm sử dụng công nghệ StatTrak™, ghi lại số liệu nhất định khi người dùng trang bị.</span><br/><br/><span style='color:#cf6a32;'>Vật phẩm này theo dõi số lần bạn MVP trong tranh đấu chính thức.</span><br/><br/>Gói âm thanh này thay tất cả âm nhạc trong trò chơi và có thể chia sẻ với người bạn chơi cùng. Cũng bao gồm cả bài ca MVP được phát cho tất cả mọi người khi trong trận mà bạn là MVP.\\n\\nGói âm thanh thay thế âm thanh sau:\\n- Sảnh chính\\n- Đầu và cuối ván\\n- Mục tiêu bản đồ\\n- Báo còn mười giây\\n- Camera chết<br/><br/>Bứt phá với những tiếng trống và bass tràn đầy năng lượng của ShockOne trong \\\"Voices\\\". Lý tưởng cho những pha gánh tạ lật kèo, gói âm thanh mang đến những dải bass uy lực và đưa bạn tới nhiều danh hiệu MVP.",
   "def_index": "103",
   "rarity": {
    "id": "rarity_rare",
