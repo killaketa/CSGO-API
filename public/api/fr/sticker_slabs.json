@@ -391160,7 +391160,7 @@
  },
  {
   "id": "sticker_slab-10374",
-  "name": "Pochette à sticker | Natus Vincere (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | Natus Vincere (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10374",
   "rarity": {
@@ -391202,7 +391202,7 @@
  },
  {
   "id": "sticker_slab-10375",
-  "name": "Pochette à sticker | Natus Vincere (Holo) | Cologne 2026",
+  "name": "Pochette à sticker | Natus Vincere (holo) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10375",
   "rarity": {
@@ -391244,7 +391244,7 @@
  },
  {
   "id": "sticker_slab-10376",
-  "name": "Pochette à sticker | Natus Vincere (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | Natus Vincere (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10376",
   "rarity": {
@@ -392632,7 +392632,7 @@
  },
  {
   "id": "sticker_slab-10410",
-  "name": "Pochette à sticker | Astralis (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | Astralis (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10410",
   "rarity": {
@@ -392674,7 +392674,7 @@
  },
  {
   "id": "sticker_slab-10411",
-  "name": "Pochette à sticker | Astralis (Holo) | Cologne 2026",
+  "name": "Pochette à sticker | Astralis (holo) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10411",
   "rarity": {
@@ -392716,7 +392716,7 @@
  },
  {
   "id": "sticker_slab-10412",
-  "name": "Pochette à sticker | Astralis (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | Astralis (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10412",
   "rarity": {
@@ -394754,7 +394754,7 @@
  },
  {
   "id": "sticker_slab-10461",
-  "name": "Pochette à sticker | Sinners | Cologne 2026",
+  "name": "Pochette à sticker | SINNERS | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10461",
   "rarity": {
@@ -394776,7 +394776,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | Sinners | Cologne 2026",
+  "market_hash_name": "Sticker Slab | SINNERS | Cologne 2026",
   "effect": "Other",
   "tournament": {
    "id": 26,
@@ -394790,7 +394790,7 @@
  },
  {
   "id": "sticker_slab-10462",
-  "name": "Pochette à sticker | Sinners (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | SINNERS (Foil) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10462",
   "rarity": {
@@ -394812,7 +394812,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | Sinners (Foil) | Cologne 2026",
+  "market_hash_name": "Sticker Slab | SINNERS (Foil) | Cologne 2026",
   "effect": "Foil",
   "tournament": {
    "id": 26,
@@ -394826,7 +394826,7 @@
  },
  {
   "id": "sticker_slab-10463",
-  "name": "Pochette à sticker | Sinners (Holo) | Cologne 2026",
+  "name": "Pochette à sticker | SINNERS (Holo) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10463",
   "rarity": {
@@ -394848,7 +394848,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | Sinners (Holo) | Cologne 2026",
+  "market_hash_name": "Sticker Slab | SINNERS (Holo) | Cologne 2026",
   "effect": "Holo",
   "tournament": {
    "id": 26,
@@ -394862,7 +394862,7 @@
  },
  {
   "id": "sticker_slab-10464",
-  "name": "Pochette à sticker | Sinners (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | SINNERS (Gold) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10464",
   "rarity": {
@@ -394884,7 +394884,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | Sinners (Gold) | Cologne 2026",
+  "market_hash_name": "Sticker Slab | SINNERS (Gold) | Cologne 2026",
   "effect": "Gold",
   "tournament": {
    "id": 26,
@@ -395588,7 +395588,7 @@
  },
  {
   "id": "sticker_slab-10482",
-  "name": "Pochette à sticker | Team Liquid (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | Team Liquid (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10482",
   "rarity": {
@@ -395630,7 +395630,7 @@
  },
  {
   "id": "sticker_slab-10483",
-  "name": "Pochette à sticker | Team Liquid (Holo) | Cologne 2026",
+  "name": "Pochette à sticker | Team Liquid (holo) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10483",
   "rarity": {
@@ -395672,7 +395672,7 @@
  },
  {
   "id": "sticker_slab-10484",
-  "name": "Pochette à sticker | Team Liquid (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | Team Liquid (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10484",
   "rarity": {
@@ -395878,7 +395878,7 @@
  },
  {
   "id": "sticker_slab-10489",
-  "name": "Pochette à sticker | THUNDER dOWNUNDER | Cologne 2026",
+  "name": "Pochette à sticker | THUNDERdOWNUNDER | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10489",
   "rarity": {
@@ -395900,7 +395900,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sticker Slab | THUNDERdOWNUNDER | Cologne 2026",
   "effect": "Other",
   "tournament": {
    "id": 26,
@@ -395914,7 +395914,7 @@
  },
  {
   "id": "sticker_slab-10490",
-  "name": "Pochette à sticker | THUNDER dOWNUNDER (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | THUNDERdOWNUNDER (Foil) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10490",
   "rarity": {
@@ -395936,7 +395936,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | THUNDER dOWNUNDER (Foil) | Cologne 2026",
+  "market_hash_name": "Sticker Slab | THUNDERdOWNUNDER (Foil) | Cologne 2026",
   "effect": "Foil",
   "tournament": {
    "id": 26,
@@ -395950,7 +395950,7 @@
  },
  {
   "id": "sticker_slab-10491",
-  "name": "Pochette à sticker | THUNDER dOWNUNDER (Holo) | Cologne 2026",
+  "name": "Pochette à sticker | THUNDERdOWNUNDER (Holo) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10491",
   "rarity": {
@@ -395972,7 +395972,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | THUNDER dOWNUNDER (Holo) | Cologne 2026",
+  "market_hash_name": "Sticker Slab | THUNDERdOWNUNDER (Holo) | Cologne 2026",
   "effect": "Holo",
   "tournament": {
    "id": 26,
@@ -395986,7 +395986,7 @@
  },
  {
   "id": "sticker_slab-10492",
-  "name": "Pochette à sticker | THUNDER dOWNUNDER (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | THUNDERdOWNUNDER (Gold) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10492",
   "rarity": {
@@ -396008,7 +396008,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker Slab | THUNDER dOWNUNDER (Gold) | Cologne 2026",
+  "market_hash_name": "Sticker Slab | THUNDERdOWNUNDER (Gold) | Cologne 2026",
   "effect": "Gold",
   "tournament": {
    "id": 26,
@@ -396575,7 +396575,7 @@
  },
  {
   "id": "sticker_slab-10539",
-  "name": "Pochette à sticker | apEX (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | apEX (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10539",
   "rarity": {
@@ -396673,7 +396673,7 @@
  },
  {
   "id": "sticker_slab-10541",
-  "name": "Pochette à sticker | apEX (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | apEX (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10541",
   "rarity": {
@@ -398338,7 +398338,7 @@
  },
  {
   "id": "sticker_slab-10575",
-  "name": "Pochette à sticker | NiKo (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | NiKo (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10575",
   "rarity": {
@@ -398434,7 +398434,7 @@
  },
  {
   "id": "sticker_slab-10577",
-  "name": "Pochette à sticker | NiKo (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | NiKo (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10577",
   "rarity": {
@@ -402571,7 +402571,7 @@
  },
  {
   "id": "sticker_slab-10663",
-  "name": "Pochette à sticker | FalleN (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | FalleN (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10663",
   "rarity": {
@@ -402669,7 +402669,7 @@
  },
  {
   "id": "sticker_slab-10665",
-  "name": "Pochette à sticker | FalleN (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | FalleN (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10665",
   "rarity": {
@@ -411819,7 +411819,7 @@
  },
  {
   "id": "sticker_slab-10855",
-  "name": "Pochette à sticker | Snax (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | Snax (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10855",
   "rarity": {
@@ -411917,7 +411917,7 @@
  },
  {
   "id": "sticker_slab-10857",
-  "name": "Pochette à sticker | Snax (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | Snax (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "10857",
   "rarity": {
@@ -420263,7 +420263,7 @@
  },
  {
   "id": "sticker_slab-11031",
-  "name": "Pochette à sticker | nitr0 (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | nitr0 (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11031",
   "rarity": {
@@ -420361,7 +420361,7 @@
  },
  {
   "id": "sticker_slab-11033",
-  "name": "Pochette à sticker | nitr0 (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | nitr0 (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11033",
   "rarity": {
@@ -423279,7 +423279,7 @@
  },
  {
   "id": "sticker_slab-11095",
-  "name": "Pochette à sticker | EliGE (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | EliGE (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11095",
   "rarity": {
@@ -423377,7 +423377,7 @@
  },
  {
   "id": "sticker_slab-11097",
-  "name": "Pochette à sticker | EliGE (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | EliGE (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11097",
   "rarity": {
@@ -424063,7 +424063,7 @@
  },
  {
   "id": "sticker_slab-11111",
-  "name": "Pochette à sticker | NAF (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | NAF (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11111",
   "rarity": {
@@ -424161,7 +424161,7 @@
  },
  {
   "id": "sticker_slab-11113",
-  "name": "Pochette à sticker | NAF (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | NAF (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11113",
   "rarity": {
@@ -426270,7 +426270,7 @@
  },
  {
   "id": "sticker_slab-11159",
-  "name": "Pochette à sticker | jks (Foil) | Cologne 2026",
+  "name": "Pochette à sticker | jks (premium) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11159",
   "rarity": {
@@ -426366,7 +426366,7 @@
  },
  {
   "id": "sticker_slab-11161",
-  "name": "Pochette à sticker | jks (Gold) | Cologne 2026",
+  "name": "Pochette à sticker | jks (or) | Cologne 2026",
   "description": "Le sticker est scellé dans cette pochette. Vous pouvez le renvoyer dans votre inventaire à tout moment en ouvrant et en jetant la pochette.<br><br>Ce porte-bonheur peut être attaché à n'importe quelle arme en votre possession. Tout porte-bonheur attaché peut être détaché à l'aide d'un séparateur de porte-bonheur. Le porte-bonheur retournera alors dans votre inventaire.",
   "def_index": "11161",
   "rarity": {
