@@ -147024,7 +147024,7 @@
  {
   "id": "skin-fe7065d1a17d",
   "name": "UMP-45 | Expuesto",
-  "description": "El hijo del medio que nadie comprende de la familia de los subfusiles. El reducido cargador del UMP45 es la única desventaja de esta versátil arma automática para espacios cerrados. Se aplicó una pintura personalizada que simula una radiografía, con su caja torácica y todo.\\n\\n<i>\\\"Por favor, retira todos los objetos metálicos de tus bolsillos\\\"</i>.",
+  "description": "El hijo del medio que nadie comprende de la familia de los subfusiles. El reducido cargador del UMP45 es la única desventaja de esta versátil arma automática para espacios cerrados. Se aplicó una pintura personalizada que simula una radiografía, con su caja torácica y todo.\\n\\n<i>\\\"Por favor, retira todos los artículos metálicos de tus bolsillos\\\"</i>.",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
